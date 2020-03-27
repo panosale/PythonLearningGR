@@ -1,6 +1,6 @@
 # PythonLearningGR
 Μαθήματα - ασκήσεις Python
-ΑΣΚΗΣΕΙΣ
+ΑΣΚΗΣΕΙΣ /n
 http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html
 http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2017/Exercises/index.html
 http://rousogiannis.blogspot.com/2016/01/python.html
