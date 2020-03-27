@@ -1,5 +1,6 @@
 # PythonLearningGR
 Μαθήματα - ασκήσεις Python
+
 ΑΣΚΗΣΕΙΣ
 
 http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html
@@ -13,6 +14,7 @@ http://users.sch.gr/karatolos/?page_id=411
 http://ecourse.uoi.gr/mod/forum/discuss.php?d=9924
 
 https://www.w3resource.com/python-exercises/
+
 
 
 
