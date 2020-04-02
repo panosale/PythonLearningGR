@@ -5,6 +5,9 @@ SITES - TITORIALS
 
 https://docs.python.org/3/tutorial/
 
+https://www.guru99.com/python-tutorials.html
+
+https://realpython.com/ (needs to be member)
 
 ΑΣΚΗΣΕΙΣ
 
