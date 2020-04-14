@@ -9,5 +9,4 @@ if letter[0] in vowels:
     print ( letter[0], 'is a vowel.' )
 else:
     print ( letter[0], 'is not a vowel.' )
-
-
+    
