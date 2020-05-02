@@ -1,8 +1,6 @@
 import time
 import cv2
 # from cv2 import cv2
-# from cv2 import putText as pt 
-# from cv2 import FONT_HERSHEY_PLAIN as fnt
 
 class FPS: # To measure the number of frame per second
     def __init__(self):
