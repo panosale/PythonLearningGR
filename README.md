@@ -9,6 +9,16 @@ https://www.guru99.com/python-tutorials.html
 
 https://realpython.com/ (needs to be member)
 
+
+ΒΟΗΘΗΤΙΚΑ
+
+pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
+
+https://pypi.org/project/pylint/
+
+https://github.com/PyCQA/pylint/
+
+
 ΑΣΚΗΣΕΙΣ
 
 Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html
