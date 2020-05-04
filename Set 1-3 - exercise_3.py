@@ -10,4 +10,4 @@ def funcF ( x ):
     else:
         return math.sqrt ( 46 + x )
 x = int ( input ( 'Give x: ') )
-print ( 'f('+str(x)+') =', funcF ( x ) )
+print ( 'f(' + str ( x ) + ') =', funcF ( x ) )
