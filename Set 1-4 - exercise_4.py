@@ -6,9 +6,8 @@ print ( '----- Set 1-4 - excercise_4 -----' )
 n = int ( input ( 'Give a number: ') )
 s = 0
 s_sqr = 0
-for i in range ( 0, n, 1):
+for i in range (0, n):
     s = s + i + 1
-    s_sqr = s_sqr + ( ( i + 1) ** 2 )
-print ( '' )
-print ( 'Simple sum =', s )
+    s_sqr = s_sqr + ((i + 1) ** 2)
+print ( '\nSimple sum =', s )
 print ( 'Squares sum =', s_sqr )
