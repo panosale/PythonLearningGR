@@ -40,3 +40,6 @@ https://github.com/PyCQA/pylint/
 
 Αν δεν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών. Δηλαδή, εμφανίζει το VSC μήνυμα "Module 'XXX' has no 'yyyyyyyy' member". Οι οδηγίες βρίσκονται εδώ: https://github.com/PyCQA/pylint/issues/2426 και εδώ: https://answers.opencv.org/question/200869/e1101module-cv2-has-no-imread-member/
 
+12 Python Tips and Tricks For Writing Better Code - Towards Data Science
+
+https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
