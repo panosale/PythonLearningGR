@@ -1,3 +1,4 @@
+# Running this in VSC, none warning should appear on Notifications Bar (bottom blue line) *** panosale
 import time
 import cv2
 # from cv2 import cv2
