@@ -48,5 +48,5 @@ https://github.com/PyCQA/pylint/
 2.    Choose "Preferences: Open Settings (JSON)"
 3.    Add this line into JSON file:
 4.    "python.linting.pylintArgs": ["--generate-members"]
-5.    Done, it works for me 👍
+5.    Done, it works for me
 Οι οδηγίες βρίσκονται εδώ: https://github.com/PyCQA/pylint/issues/2426 και εδώ: https://answers.opencv.org/question/200869/e1101module-cv2-has-no-imread-member/
