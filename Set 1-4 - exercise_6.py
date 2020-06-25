@@ -1,6 +1,6 @@
 print ( '----- Set 1-4 - excercise_6 -----' )
 # 6. Γράψτε ένα πρόγραμμα το οποίο ελέγχει αν μια λέξη είναι παλινδρομική,
-# δηλαδή διαβάζεται το ίδιοκαι από δεξιά και από αριστερά.
+# δηλαδή διαβάζεται το ίδιο και από δεξιά και από αριστερά.
 # Η λέξη πρέπει να δίνεται από τον χρήστη.
 s = input('Give a string: ')
 def CutSpaces(s):
@@ -14,9 +14,8 @@ def ReverseString(s):
     for i in range(len(s), 0, -1):
         new_s = new_s + s[i-1]
     return new_s
-if CutSpaces(s) == ReverseString(CutSpaces(s)):
+if CutSpaces(s.upper()) == ReverseString(CutSpaces(s.upper())):
     print (s, 'is reversable')
 else:
     print (s, 'is NOT reversable')
-
     
