@@ -32,13 +32,9 @@ https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF
 
 ΒΟΗΘΗΤΙΚΑ - ΣΗΜΕΙΩΣΕΙΣ
 
-12 Python Tips and Tricks For Writing Better Code - Towards Data Science
+12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
 
-https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
-
-When and Why to Use := Over = in Python
-
-https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
+When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
 
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
