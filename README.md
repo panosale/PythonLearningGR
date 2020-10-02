@@ -36,11 +36,17 @@ https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF
 
 https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
 
+When and Why to Use := Over = in Python
+
+https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
+
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
 https://pypi.org/project/pylint/
 
 https://github.com/PyCQA/pylint/
+
+***** ΠΡΟΒΛΗΜΑΤΑ *****
 
 Για να ελέγξουμε αν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών εκτελούμε το "check_if_import_cv2_works_fine.py".
 Αν το VCS εμφανίσει μήνυμα "Module 'XXX' has no 'yyyyyyyy' member" κάνουμε τα παρακάτω:
