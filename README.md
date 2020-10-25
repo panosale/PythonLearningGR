@@ -36,6 +36,8 @@ https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF
 
 When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
 
+3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
+
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
 https://pypi.org/project/pylint/
