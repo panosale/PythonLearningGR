@@ -38,6 +38,8 @@ When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and
 
 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
 
+Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
+
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
 https://pypi.org/project/pylint/
