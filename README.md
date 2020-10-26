@@ -32,6 +32,15 @@ https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF
 
 ΒΟΗΘΗΤΙΚΑ - ΣΗΜΕΙΩΣΕΙΣ
 
+pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
+
+https://pypi.org/project/pylint/
+
+https://github.com/PyCQA/pylint/
+
+
+ΑΡΘΡΑ
+
 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
 
 When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
@@ -40,11 +49,8 @@ When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
-pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
+Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
-https://pypi.org/project/pylint/
-
-https://github.com/PyCQA/pylint/
 
 ***** ΠΡΟΒΛΗΜΑΤΑ *****
 
