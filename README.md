@@ -1,7 +1,9 @@
 # PythonLearningGR
-- - Μαθήματα - ασκήσεις Python
+P Y T H O N
 
-- SITES - TITORIALS
+Μ Α Θ Η Μ Α Τ Α   -   Α Σ Κ Η Σ Ε Ι Σ - Ε Ρ Γ Α Λ Ε Ι Α
+
+- SITES & TITORIALS
 
 https://docs.python.org/3/tutorial/
 
@@ -52,7 +54,7 @@ https://pypi.org/project/pylint/
 https://github.com/PyCQA/pylint/
 
 
-***** ΠΡΟΒΛΗΜΑΤΑ *****
+- ***** ΠΡΟΒΛΗΜΑΤΑ *****
 
 Για να ελέγξουμε αν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών εκτελούμε το "check_if_import_cv2_works_fine.py".
 Αν το VCS εμφανίσει μήνυμα "Module 'XXX' has no 'yyyyyyyy' member" κάνουμε τα παρακάτω:
