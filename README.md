@@ -44,6 +44,7 @@ Test your Python skills with these 10 projects: https://thenextweb.com/syndicati
 
 Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
+Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
 
 - ΒΟΗΘΗΤΙΚΑ - ΣΗΜΕΙΩΣΕΙΣ
 
