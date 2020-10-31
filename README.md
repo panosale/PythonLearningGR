@@ -46,7 +46,7 @@ Programming language Python is a big hit for machine learning. But now it needs 
 
 Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
 
-* ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (Γίνονται εγκατάσταση από Command Prompt)
+* ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
@@ -58,7 +58,7 @@ Jupyterlab: pip install jupyterlab
 
 * ΣΗΜΕΙΩΣΕΙΣ
 
-* ***** ΠΡΟΒΛΗΜΑΤΑ *****
+***** ΠΡΟΒΛΗΜΑΤΑ *****
 
 Για να ελέγξουμε αν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών εκτελούμε το "check_if_import_cv2_works_fine.py".
 Αν το VCS εμφανίσει μήνυμα "Module 'XXX' has no 'yyyyyyyy' member" κάνουμε τα παρακάτω:
