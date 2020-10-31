@@ -54,6 +54,11 @@ https://pypi.org/project/pylint/
 
 https://github.com/PyCQA/pylint/
 
+- - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ
+
+Γίνονται εγκατάσταση από Command Prompt
+
+Jupyterlab: pip install jupyterlab
 
 - ***** ΠΡΟΒΛΗΜΑΤΑ *****
 
