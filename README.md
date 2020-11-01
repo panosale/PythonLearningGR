@@ -19,13 +19,13 @@ https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF
 
 * ΑΣΚΗΣΕΙΣ
 
-Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html - ???
+Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html - N/A ?
 
-Set 2 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2017/Exercises/index.html - ???
+Set 2 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2017/Exercises/index.html - N/A ?
 
-Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED IN "Exercises" FOLDER.
+Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED IN "Exercises\Rousogiannis" FOLDER.
 
-Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED IN "Exercises" FOLDER.
+Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED IN "Exercises\Karatolos" FOLDER.
 
 Set 5 - http://ecourse.uoi.gr/mod/forum/discuss.php?d=9924 - Οδηγεί στον παρακάτω σύνδεσμο:
 
