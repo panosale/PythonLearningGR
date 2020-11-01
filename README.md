@@ -23,9 +23,9 @@ Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.h
 
 Set 2 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2017/Exercises/index.html - ???
 
-Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED.
+Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED IN "Exercises" FOLDER.
 
-Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED.
+Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED IN "Exercises" FOLDER.
 
 Set 5 - http://ecourse.uoi.gr/mod/forum/discuss.php?d=9924 - Οδηγεί στον παρακάτω σύνδεσμο:
 
