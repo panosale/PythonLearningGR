@@ -61,6 +61,15 @@ https://github.com/PyCQA/pylint/
 
 Jupyterlab: pip install jupyterlab
 
+
+** ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
+
+Από Command Prompt:
+
+pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
+
+Από Python:
+
 * ΣΗΜΕΙΩΣΕΙΣ
 
 ***** ΠΡΟΒΛΗΜΑΤΑ *****
