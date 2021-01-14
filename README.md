@@ -66,7 +66,7 @@ Jupyterlab: pip install jupyterlab
 
 * * Από Command Prompt:
 
-        pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
+    pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
 
 * * Από Python:
 
