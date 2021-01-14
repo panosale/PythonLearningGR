@@ -62,6 +62,7 @@ https://github.com/PyCQA/pylint/
         pip install pylint
 
 Jupyterlab
+
         pip install jupyterlab
 
 
