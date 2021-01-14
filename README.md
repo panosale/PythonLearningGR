@@ -53,13 +53,15 @@ Understand Loops in Python with One Article: https://towardsdatascience.com/unde
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
-        pip install pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
+pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
 https://pypi.org/project/pylint/
 
 https://github.com/PyCQA/pylint/
 
-Jupyterlab: pip install jupyterlab
+        pip install pylint
+
+Jupyterlab:         pip install jupyterlab
 
 
 * ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
@@ -71,7 +73,7 @@ Jupyterlab: pip install jupyterlab
 * * Από Python:
 
         dir(κάποια μεταβλητή ή κλάση) -> Εμαφνίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
-
+        
 
 * ΣΗΜΕΙΩΣΕΙΣ
 
