@@ -50,6 +50,15 @@ Methods in Python – A Key Concept of Object Oriented Programming: https://www.
 
 Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
 
+Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
+
+A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
+
+3 Useful Projects to learn Python Classes: https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297
+
+Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
+
+
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
