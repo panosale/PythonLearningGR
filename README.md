@@ -58,6 +58,14 @@ A Full-Length Machine Learning Course in Python for Free: https://towardsdatasci
 
 Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
 
+Three Functions to Know in Python: https://towardsdatascience.com/three-functions-to-know-in-python-4f2d27a4d05
+
+Learn Python by coding a simple game: https://opensource.com/article/20/12/learn-python
+
+10 Surprisingly Useful Base Python Functions: https://towardsdatascience.com/10-surprisingly-useful-base-python-functions-822d86972a23
+
+Python Code Performance Measurement – Measure the right metric to optimize better!: https://www.analyticsvidhya.com/blog/2021/01/python-code-performance-measurement-measure-the-right-metric-to-optimize-better/
+
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
