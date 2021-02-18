@@ -68,6 +68,8 @@ Python Code Performance Measurement – Measure the right metric to optimize bet
 
 Functional Programming in Python: When and How to Use It – Real Python: https://realpython.com/python-functional-programming/
 
+Python in Visual Studio Code – January 2021 Release | Python: https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/
+
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
