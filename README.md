@@ -70,6 +70,10 @@ Functional Programming in Python: When and How to Use It – Real Python: https:
 
 Python in Visual Studio Code – January 2021 Release | Python: https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/
 
+Understanding Feature Importance and How to Implement it in Python: https://towardsdatascience.com/understanding-feature-importance-and-how-to-implement-it-in-python-ff0287b20285
+
+11 Python Built-in Functions You Should Know: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
+
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
