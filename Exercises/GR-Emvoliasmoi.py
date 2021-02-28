@@ -5,9 +5,9 @@ headers = {'Authorization':'Token afff74366084109b050512ce13d4b11c24bd3396'}
 response = requests.get(url, headers=headers)
 #with open('GR-Emvoliasmoi.txt', 'w', encoding='utf-8') as f:
 #    json.dump(response.json(), f)
-nomos = str(input("Δώστε νομό (Ελληνικά κεφαλαία π.χ. ΘΕΣΣΑΛΟΝΙΚΗΣ): "))
 j = response.json()
-j = sorted(j, key= lambda k: k['referencedate'], reverse=False) # Sort by referencedate ascending
+j = sorted(j, key= lambda k: k['referencedate'], reverse=False) # Ascending sort by 'referencedate'
+nomos = str(input("Δώστε νομό (Ελληνικά κεφαλαία π.χ. ΘΕΣΣΑΛΟΝΙΚΗΣ): "))
 for p in j:
     if nomos == p['area']:
         date_time_obj = datetime.datetime.strptime(p['referencedate'], '%Y-%m-%dT%H:%M:%S')
@@ -15,4 +15,3 @@ for p in j:
               ' - Date=', date_time_obj.date(),
               ' - DayTotal=', p['daytotal'],
               ' - Total=', p['totalvaccinations'])
-        
