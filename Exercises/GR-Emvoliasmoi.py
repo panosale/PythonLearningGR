@@ -5,7 +5,7 @@ url = 'https://data.gov.gr/api/v1/query/mdg_emvolio'#?date_from=2020-12-28&date_
 headers = {'Authorization':'Token afff74366084109b050512ce13d4b11c24bd3396'} # Χρήση έτοιμου token για σύνδεση. Μπορούμε να φτιάξουμε δικό μας για σύνδεση στο URL.
 response = requests.get(url, headers=headers) # Αποθήκευση των δεδομένων του URL στην response.
 #with open('GR-Emvoliasmoi.txt', 'w', encoding='utf-8') as f: # Άνοιγμα νέου αρχείου "GR-Emvoliasmoi.txt" για...
-#    json.dump(response.json(), f) # ...αποθήκευση των στοιχείων της response (πρέπει να γίνει το import json).
+#    json.dump(response.json(), f) # ...αποθήκευση των στοιχείων της response (πρέπει να ενεργοποιηθεί και το import json στην γραμμή 3).
 response = sorted(response.json(), key = lambda k: k['referencedate'], reverse = False) # Αύξουσα ταξινόμηση του responce βάσει του πεδίου "referencedate"
 nomos = str(input("Δώστε νομό (Ελληνικά κεφαλαία π.χ. ΘΕΣΣΑΛΟΝΙΚΗΣ): ")) # Εισαγωγή από τον χρήστη του νομού ελέγχου.
 date_from = datetime.datetime.strptime(str(input("Από... (ΕΕΕΕ-ΜΜ-ΗΗ): ")),'%Y-%m-%d') # Εισαγωγή από τον χρήστη της ημερομηνίας ελέγχου Από....
