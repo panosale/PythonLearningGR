@@ -74,6 +74,12 @@ Understanding Feature Importance and How to Implement it in Python: https://towa
 
 11 Python Built-in Functions You Should Know: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
 
+The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/
+
+Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
+
+How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
+
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
