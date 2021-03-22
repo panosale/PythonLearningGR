@@ -5,7 +5,7 @@ from pythonping import ping # Βιβλιοθήκη ping για έλεγχο αν
 import time # Βιβλιοθήκη time για χρήση delay
 send_magic_packet('XX.XX.XX.XX.XX.XX') # Δίνουμε την MAC address του Η/Υ που θέλουμε να γίνει απομακρυσμένη εκκίνηση
 host = '192.168.1.XXX' # Η διεύθυνση IP του απομακρυσμένου Η/Υ (καλό είναι να είναι static)
-hostname = 'SmallPC' # Το computer name του απομακρυσμένου Η/Υ (καλό είναι να είναι static)
+hostname = 'PC-name' # Το computer name του απομακρυσμένου Η/Υ
 result = (ping (host, count=1)).success() # 1 ping στην ΙΡ του απομακρυσμένου Η/Υ και επιστροφή της απάντησης .success() στην μεταβλητή result
 while not result: # Επαναλήψη 1 ping μέχρι να απαντήσει σε ping ο απομακρυσμένος Η/Υ
     print (hostname, 'is offline.') # Εμφάνιση μηνύματος offline
