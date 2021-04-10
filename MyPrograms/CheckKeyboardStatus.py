@@ -75,7 +75,6 @@ w = win32gui
 last_window = w.GetWindowText (w.GetForegroundWindow())
 print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
 print ("CURRENT LANGUAGE:", get_keyboard_language())
-#caps_status = win32api.GetKeyState(win32con.VK_CAPITAL)
 print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
 while True:
     if last_window != w.GetWindowText(w.GetForegroundWindow()):
@@ -85,5 +84,4 @@ while True:
         # Επιλεγμένη γλώσσα
         print ("CURRENT LANGUAGE:", get_keyboard_language())
         # Κατάσταση Caps Lock
- #       caps_status = win32api.GetKeyState(win32con.VK_CAPITAL)
         print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
