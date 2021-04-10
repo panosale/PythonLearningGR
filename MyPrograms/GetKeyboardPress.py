@@ -1,5 +1,5 @@
 import keyboard
 while True:
-    if keyboard.press_and_release:
+    if keyboard.is_pressed("d"):
         print ("KEY DOWN")
-        #break
+        break

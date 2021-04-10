@@ -1,6 +1,7 @@
 import win32api,win32con # Βιβλιοθήκη για έλεγχο κατάστασης πληκτρολογίου
 import ctypes # Βιβλιοθήκη για έλεγχο κατάστασης επιλεγμένης γλώσσας
 import win32gui # Βιβλιοθήκη ελέγχου ενεργού παραθύρου των Windows
+import keyboard # Βιβλιοθήκη ελέγχου πληκτρολογίου
 
 # *** Έλεγχος επιλεγμένης γλώσσας
 def get_keyboard_language():
@@ -77,11 +78,12 @@ print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
 print ("CURRENT LANGUAGE:", get_keyboard_language())
 print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
 while True:
-    if last_window != w.GetWindowText(w.GetForegroundWindow()):
-        print ("...")
-        print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
-        last_window = w.GetWindowText (w.GetForegroundWindow())
-        # Επιλεγμένη γλώσσα
-        print ("CURRENT LANGUAGE:", get_keyboard_language())
-        # Κατάσταση Caps Lock
-        print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+    if keyboard.is_pressed:
+        if last_window != w.GetWindowText(w.GetForegroundWindow()):
+            print ("...")
+            print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
+            last_window = w.GetWindowText (w.GetForegroundWindow())
+            # Επιλεγμένη γλώσσα
+            print ("CURRENT LANGUAGE:", get_keyboard_language())
+            # Κατάσταση Caps Lock
+            print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
