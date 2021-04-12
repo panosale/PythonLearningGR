@@ -1,7 +1,7 @@
 import win32api,win32con # Βιβλιοθήκη για έλεγχο κατάστασης πληκτρολογίου
 import ctypes # Βιβλιοθήκη για έλεγχο κατάστασης επιλεγμένης γλώσσας
 import win32gui # Βιβλιοθήκη ελέγχου ενεργού παραθύρου των Windows
-#import keyboard # Βιβλιοθήκη ελέγχου πληκτρολογίου
+import keyboard # Βιβλιοθήκη ελέγχου πληκτρολογίου  # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT
 from playsound import playsound # Βιβλιοθήκη εκτέλεσης ήχων
 
 # *** Έλεγχος επιλεγμένης γλώσσας
@@ -88,20 +88,21 @@ print ("CURRENT LANGUAGE:", get_keyboard_language())
 print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
 while True:
     current_window = w.GetWindowText(w.GetForegroundWindow())
-    if current_window != '' and previous_window != current_window:
-        print ("[... NEW ENTRY ...")
-        print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
-        previous_window = w.GetWindowText (w.GetForegroundWindow())
-        # Επιλεγμένη γλώσσα
-        print ("CURRENT LANGUAGE:", get_keyboard_language())
-        print ("... END ENTRY ...]")
-        if get_keyboard_language() == '0x409': # Επιλεγμένα Αγγλικά
-            playsound(english_sound)
-        elif get_keyboard_language() == '0x408': # Επιλεγμένα Ελληνικά
-            playsound(greek_sound)
-        # Κατάσταση Caps Lock
-        #print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
-        if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
-            playsound(capslock_on_sound)
-        else:
-            playsound(capslock_off_sound)
+    if keyboard.is_pressed: # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT
+        if current_window != '' and previous_window != current_window:
+            print ("[... NEW ENTRY ...")
+            print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
+            previous_window = w.GetWindowText (w.GetForegroundWindow())
+            # Επιλεγμένη γλώσσα
+            print ("CURRENT LANGUAGE:", get_keyboard_language())
+            print ("... END ENTRY ...]")
+            if get_keyboard_language() == '0x409': # Επιλεγμένα Αγγλικά
+                playsound(english_sound)
+            elif get_keyboard_language() == '0x408': # Επιλεγμένα Ελληνικά
+                playsound(greek_sound)
+            # Κατάσταση Caps Lock
+            #print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+            if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
+                playsound(capslock_on_sound)
+            else:
+                playsound(capslock_off_sound)
