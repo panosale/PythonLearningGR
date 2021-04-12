@@ -80,6 +80,11 @@ Here's how you can master Python, one of the most popular coding languages | ZDN
 
 How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
+So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
+
+Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/
+
+Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
