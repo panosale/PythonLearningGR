@@ -2,6 +2,7 @@ import win32api,win32con # Βιβλιοθήκη για έλεγχο κατάστ
 import ctypes # Βιβλιοθήκη για έλεγχο κατάστασης επιλεγμένης γλώσσας
 import win32gui # Βιβλιοθήκη ελέγχου ενεργού παραθύρου των Windows
 import keyboard # Βιβλιοθήκη ελέγχου πληκτρολογίου
+from playsound import playsound # Βιβλιοθήκη εκτέλεσης ήχων
 
 # *** Έλεγχος επιλεγμένης γλώσσας
 def get_keyboard_language():
@@ -64,13 +65,20 @@ def get_keyboard_language():
     # Convert the keyboard language id from decimal to hexadecimal
     language_id_hex = hex(language_id)
     # Check if the hex value is in the dictionary.
+    # Return language id hexadecimal value only.
     if language_id_hex in languages.keys():
-        return languages[language_id_hex]
+#        return languages[language_id_hex] - Για διαγραφή
+        return language_id_hex
     else:
-        # Return language id hexadecimal value if not found.
-        return str(language_id_hex)
+#        return str(language_id_hex) - Για διαγραφή
+        return language_id_hex
 
-# *** Εμφάνιση αποτελεσμάτων
+greek_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\Greek.wav"
+english_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\English.wav"
+capslock_on_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\CapsLockON.wav"
+capslock_off_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\CapsLockOFF.wav"
+
+# *** Εμφάνιση-ανακοίνωση αποτελεσμάτων
 # Ενεργό παράθυρο Windows
 w = win32gui
 last_window = w.GetWindowText (w.GetForegroundWindow())
@@ -79,11 +87,20 @@ print ("CURRENT LANGUAGE:", get_keyboard_language())
 print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
 while True:
     if keyboard.is_pressed:
-        if last_window != w.GetWindowText(w.GetForegroundWindow()):
+        if w.GetWindowText(w.GetForegroundWindow()) != '' and last_window != w.GetWindowText(w.GetForegroundWindow()):
             print ("...")
             print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
             last_window = w.GetWindowText (w.GetForegroundWindow())
             # Επιλεγμένη γλώσσα
             print ("CURRENT LANGUAGE:", get_keyboard_language())
+            if get_keyboard_language() == '0x409': # Επιλεγμένα Αγγλικά
+                playsound(english_sound)
+            elif get_keyboard_language() == '0x408': # Επιλεγμένα Ελληνικά
+                playsound(greek_sound)
             # Κατάσταση Caps Lock
-            print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+            #print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+            if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
+                playsound(capslock_on_sound)
+            else:
+                playsound(capslock_off_sound)
+   
