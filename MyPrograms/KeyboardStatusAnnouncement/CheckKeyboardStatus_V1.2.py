@@ -69,9 +69,9 @@ def get_keyboard_language():
     else:
         return "* Uknown language *" #language_id_hex
 
-greek_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\Greek.wav"
-english_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\English.wav"
-capslock_on_sound = "D:\My Documents\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\CapsLockON.wav"
+greek_sound = "D:\Extras\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\SoundsGreek.wav"
+english_sound = "D:\Extras\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\SoundsEnglish.wav"
+capslock_on_sound = "D:\Extras\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\SoundsCapsLockON.wav"
 
 # *** Εμφάνιση-ανακοίνωση αποτελεσμάτων
 # Ενεργό παράθυρο Windows
