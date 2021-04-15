@@ -1,4 +1,4 @@
-# Μέτρηση χρήσης μνήμης κατά την εκτέλεση ενός προγράμματος python με τη χρήση της βιβλιοθήκης resource
+# Μέτρηση χρήσης μνήμης κατά την εκτέλεση ενός προγράμματος python με τη χρήση της βιβλιοθήκης resource.
 # 2ος τρόπος με λιγότερη κατανάλωση πόρων.
 # Από: https://medium.com/survata-engineering-blog/monitoring-memory-usage-of-a-running-python-program-49f027e3d1ba
 
@@ -28,7 +28,7 @@ with ThreadPoolExecutor() as executor:
     monitor = MemoryMonitor()
     mem_thread = executor.submit(monitor.measure_usage)
     try:
-        fn_thread = executor.submit(ΠΡΟΓΡΑΜΜΑ ΠΟΥ ΘΕΛΟΥΜΕ ΝΑ ΕΛΕΓΞΟΥΜΕ)
+        fn_thread = executor.submit(XXX) # <--- ΤΟ ΟΝΟΜΑ ΤΗΣ ΣΥΝΑΡΤΗΣΗΣ ΜΑΣ
         result = fn_thread.result()
     finally:
         monitor.keep_measuring = False
