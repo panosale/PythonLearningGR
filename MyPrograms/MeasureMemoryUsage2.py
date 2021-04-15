@@ -1,7 +1,8 @@
 # Μέτρηση χρήσης μνήμης κατά την εκτέλεση ενός προγράμματος python με τη χρήση της βιβλιοθήκης resource
+# 2ος τρόπος με λιγότερη κατανάλωση πόρων.
 # Από: https://medium.com/survata-engineering-blog/monitoring-memory-usage-of-a-running-python-program-49f027e3d1ba
 
-# First — we define a class to perform the memory monitoring:
+# First — we define a class to perform the memory monitoring
 import resource
 
 from time import sleep
