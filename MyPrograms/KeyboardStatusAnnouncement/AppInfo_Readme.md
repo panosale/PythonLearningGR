@@ -1,4 +1,5 @@
 * GR
+
 Εφαρμογή που θα ανακοινώνει με φωνητικό μήνυμα τον χρήστη αν,
   κατά την πληκτρολόγηση στο τρέχον παράθυρο των Windows,
   έχει ενεργοποιημένο το Caps Lock
@@ -6,8 +7,8 @@
 
 
 * ENG
-Application that will announce with voice message the user,
-  when he starts writing on the current Window,
-  if he has the Caps Lock activated
-  and keyboard layout (language) other than the default of Windows.
 
+Application that will announce the user with voice message,
+  when starts typing on the active Window,
+  if has the Caps Lock activated
+  and keyboard layout (language) other than the default of Windows.
