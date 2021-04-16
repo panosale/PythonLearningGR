@@ -6,6 +6,7 @@
   και διαφορετική γλώσσα πληκτρολογίου από την προεπιλεγμένη των Windows.
 
 
+
 * ENG
 
 Application that will announce the user with voice message,
