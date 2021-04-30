@@ -3,7 +3,7 @@
 # V1.2 - Παίζει ηχητική ειδοποίηση μόνο η επιλεγμένη γλώσσα είναι διαφορετική από την προεπιλεγμένη του λειτουργικού
 import win32api,win32con # Βιβλιοθήκη για έλεγχο κατάστασης πληκτρολογίου. Εγκατάσταση της βιβλιοθήκης pywin32 με την εντολή: pip install pywin32
 import ctypes # Βιβλιοθήκη για έλεγχο κατάστασης επιλεγμένης γλώσσας
-import win32gui # Βιβλιοθήκη ελέγχου ενεργού παραθύρου των Windows
+import win32gui # Βιβλιοθήκη ελέγχου ενεργού παραθύρου των Windows. Εγκατάσταση της βιβλιοθήκης pywin32 με την εντολή: pip install pywin32
 import keyboard # Βιβλιοθήκη ελέγχου πληκτρολογίου. Εγκατάσταση της βιβλιοθήκης keyboard με την εντολή: pip install keyboard  # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT (ΣΕ ΕΠΟΜΕΝΗ ΕΚΔΟΣΗ)
 from playsound import playsound # Βιβλιοθήκη εκτέλεσης ήχων. Εγκατάσταση της βιβλιοθήκης playsound με την εντολή: pip install playsound
 
@@ -78,9 +78,9 @@ capslock_on_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\Ke
 w = win32gui
 current_window = w.GetWindowText(w.GetForegroundWindow())
 previous_window = w.GetWindowText(w.GetForegroundWindow())
-print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
-print ("CURRENT LANGUAGE:", get_keyboard_language())
-print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+# print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
+# print ("CURRENT LANGUAGE:", get_keyboard_language())
+# print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
 while True:
     current_window = w.GetWindowText(w.GetForegroundWindow())
     if not keyboard.is_pressed('~'): # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT (ΣΕ ΕΠΟΜΕΝΗ ΕΚΔΟΣΗ)
