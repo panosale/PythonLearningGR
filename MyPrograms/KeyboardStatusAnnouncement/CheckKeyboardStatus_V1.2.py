@@ -73,14 +73,14 @@ greek_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\Keyboard
 english_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\lang_English.wav"
 capslock_on_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\CapsLock_ON.wav"
 
+default_layout = hex(win32api.GetKeyboardLayout() & (2 ** 16 - 1)) # Αποθήκευση προεπιλεγμένης γλώσσας λειτουργικού. ΠΡΕΠΕΙ ΝΑ ΕΛΕΓΧΘΕΙ ΑΝ ΤΟ ΑΠΟΤΕΛΕΣΜΑ ΕΙΝΑΙ ΣΩΣΤΟ.
 # *** Εμφάνιση-ανακοίνωση αποτελεσμάτων
 # Ενεργό παράθυρο Windows
 w = win32gui
 current_window = w.GetWindowText(w.GetForegroundWindow())
 previous_window = w.GetWindowText(w.GetForegroundWindow())
-# print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
-# print ("CURRENT LANGUAGE:", get_keyboard_language())
-# print("CAPS LOCK:", bool(win32api.GetKeyState(win32con.VK_CAPITAL)))
+print ("DEFAULT KEYBOARD LAYOUT:", default_layout)
+print ("*** Press '~' to stop ***")
 while True:
     current_window = w.GetWindowText(w.GetForegroundWindow())
     if not keyboard.is_pressed('~'): # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT (ΣΕ ΕΠΟΜΕΝΗ ΕΚΔΟΣΗ)
@@ -90,14 +90,10 @@ while True:
             previous_window = w.GetWindowText (w.GetForegroundWindow())
             # Επιλεγμένη γλώσσα
             print ("CURRENT LANGUAGE:", get_keyboard_language())
-            print ("*** win32api.GetKeyboardLayout() = ", win32api.GetKeyboardLayout())
-            print ("*** win32api.GetKeyboardLayoutName() = ", win32api.GetKeyboardLayoutName())
-            print ("*** win32api.GetCurrentThreadId() = ", win32api.GetCurrentThreadId())
             print ("*** Press '~' to stop ***")
             print ("... FINISH ...]")
-            if get_keyboard_language() == '0x409': # Επιλεγμένα Αγγλικά
-                playsound(english_sound)
-            elif get_keyboard_language() == '0x408': # Επιλεγμένα Ελληνικά
+            # Κατάσταση πληκτρολογίου - V1.2 - Ηχητική ειδοποίηση μόνο όταν η επιλεγμένη γλώσσα είναι διαφορετική από την προεπιλεγμένη του λειτουργικού
+            if get_keyboard_language() != default_layout: 
                 playsound(greek_sound)
             # Κατάσταση Caps Lock - V1.2 - Ηχητική ειδοποίηση μόνο όταν είναι ενεργό το Caps lock
             if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
