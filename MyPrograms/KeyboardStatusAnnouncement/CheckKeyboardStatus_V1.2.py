@@ -67,13 +67,15 @@ def get_keyboard_language():
     if language_id_hex in languages.keys():
         return language_id_hex
     else:
-        return "* Uknown language *" #language_id_hex
+        return 0 #language_id_hex
 
 greek_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\lang_Greek.wav"
 english_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\lang_English.wav"
 capslock_on_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\KeyboardStatusAnnouncement\Sounds\CapsLock_ON.wav"
 
-default_layout = hex(win32api.GetKeyboardLayout() & (2 ** 16 - 1)) # Αποθήκευση προεπιλεγμένης γλώσσας λειτουργικού. ΠΡΕΠΕΙ ΝΑ ΕΛΕΓΧΘΕΙ ΑΝ ΤΟ ΑΠΟΤΕΛΕΣΜΑ ΕΙΝΑΙ ΣΩΣΤΟ.
+default_layout = hex(win32api.GetKeyboardLayout() & (2 ** 16 - 1)) # Αποθήκευση προεπιλεγμένης γλώσσας λειτουργικού. ***** ΠΡΕΠΕΙ ΝΑ ΕΛΕΓΧΘΕΙ ΑΝ ΤΟ ΑΠΟΤΕΛΕΣΜΑ ΕΙΝΑΙ ΣΩΣΤΟ.
+print (win32api.GetKeyboardLayout(), ' - ', win32api.GetKeyboardLayout() & (2 ** 16 - 1))
+exception_list = [default_layout, 0, 'Εναλλαγή εργασιών'] # Βάσει αυτής της λίστας δεν θα περνάνε όλες οι κινήσεις ώστε να αποφεύγονται περιττά μηνύματα. ***** ΝΑ ΒΡΩ ΤΟΝ ΚΩΔΙΚΟ WINDOWS ΤΟΥ ΤΙΤΛΟΥ ΠΑΡΑΘΥΡΟΥ "Εναλλαγή εργασιών"
 # *** Εμφάνιση-ανακοίνωση αποτελεσμάτων
 # Ενεργό παράθυρο Windows
 w = win32gui
@@ -83,21 +85,24 @@ print ("DEFAULT KEYBOARD LAYOUT:", default_layout)
 print ("*** Press '~' to stop ***")
 while True:
     current_window = w.GetWindowText(w.GetForegroundWindow())
-    if not keyboard.is_pressed('~'): # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT (ΣΕ ΕΠΟΜΕΝΗ ΕΚΔΟΣΗ)
+    if not keyboard.is_pressed('~'): # ***** ΝΑ ΓΙΝΕΙ ΕΛΕΓΧΟΣ ΜΕ ΤΗ ΧΡΗΣΗ LISTENER ΑΠΟ PYNPUT (ΣΕ ΕΠΟΜΕΝΗ ΕΚΔΟΣΗ) ΓΙΑ ΚΑΤΑΝΑΛΩΣΗ ΛΙΓΟΤΕΡΩΝ ΠΟΡΩΝ
         if current_window != '' and previous_window != current_window:
+            current_keyboard_language = get_keyboard_language()
             print ("[... START ...")
             print ("CURRENT WINDOW:", w.GetWindowText(w.GetForegroundWindow()))
-            previous_window = w.GetWindowText (w.GetForegroundWindow())
+            print ("CURRENT WINDOW NUMBER:", w.GetForegroundWindow())
+            previous_window = w.GetWindowText(w.GetForegroundWindow())
             # Επιλεγμένη γλώσσα
-            print ("CURRENT LANGUAGE:", get_keyboard_language())
+            print ("CURRENT LANGUAGE:", current_keyboard_language)
             print ("*** Press '~' to stop ***")
             print ("... FINISH ...]")
             # Κατάσταση πληκτρολογίου - V1.2 - Ηχητική ειδοποίηση μόνο όταν η επιλεγμένη γλώσσα είναι διαφορετική από την προεπιλεγμένη του λειτουργικού
-            if get_keyboard_language() != default_layout: 
-                playsound(greek_sound)
-            # Κατάσταση Caps Lock - V1.2 - Ηχητική ειδοποίηση μόνο όταν είναι ενεργό το Caps lock
-            if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
-                playsound(capslock_on_sound)
+            if w.GetWindowText(w.GetForegroundWindow()) not in exception_list:
+                if current_keyboard_language not in exception_list:
+                    playsound(greek_sound)
+                # Κατάσταση Caps Lock - V1.2 - Ηχητική ειδοποίηση μόνο όταν είναι ενεργό το Caps lock
+                if bool(win32api.GetKeyState(win32con.VK_CAPITAL)):
+                    playsound(capslock_on_sound)
     else:
         break
 print('PROGRAM TERMINATED. THANK YOU.')
