@@ -16,6 +16,9 @@ print ('***** kernel32 **************************************')
 print ('***** py_win_keyboard_layout **************************************')
 import py_win_keyboard_layout
 print (hex(py_win_keyboard_layout.get_foreground_window_keyboard_layout() & (2 ** 16 - 1)))
+l = py_win_keyboard_layout.get_keyboard_layout_list()
+print (hex(l[0] & (2 ** 16 - 1)))
+print (hex(l[1] & (2 ** 16 - 1)))
 print ('***** win32gui, win32con **************************************')
 import win32gui, win32api
 print (win32gui.GetForegroundWindow())
