@@ -4,8 +4,8 @@ user32 = ctypes.WinDLL('user32', use_last_error=True)
 handle = user32.GetForegroundWindow()
 threadid = user32.GetWindowThreadProcessId(handle, 0)   # Get the thread id from that window handle
 layout_id = user32.GetKeyboardLayout(threadid)          # Get the keyboard layout id from the threadid
-print (handle)
-print (threadid)
+print ('handle = ', handle)
+print ('threadid = ',  threadid)
 print ('***** kernel32 **************************************')
 #kernel32 = ctypes.WinDLL('kernel32', use_last_error=True)
 #def_layout_id = kernel32.GetSystemDefaultUILanguage()
