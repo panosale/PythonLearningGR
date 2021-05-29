@@ -75,7 +75,7 @@ capslock_on_sound = "D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\Ke
 
 default_layout = hex(win32api.GetKeyboardLayout() & (2 ** 16 - 1)) # Αποθήκευση προεπιλεγμένης γλώσσας λειτουργικού. ***** ΠΡΕΠΕΙ ΝΑ ΕΛΕΓΧΘΕΙ ΑΝ ΤΟ ΑΠΟΤΕΛΕΣΜΑ ΕΙΝΑΙ ΣΩΣΤΟ.
 print (win32api.GetKeyboardLayout(), ' - ', default_layout)# ***** FOR CHECK PURPOSES. TO DELETE ON FINAL RELEASE.
-exception_list = [default_layout, 0, 'Εναλλαγή εργασιών'] # Βάσει αυτής της λίστας δεν θα περνάνε όλες οι κινήσεις ώστε να αποφεύγονται περιττά μηνύματα. ***** ΝΑ ΒΡΩ ΤΟΝ ΚΩΔΙΚΟ WINDOWS ΤΟΥ ΤΙΤΛΟΥ ΠΑΡΑΘΥΡΟΥ "Εναλλαγή εργασιών"
+exception_list = [default_layout, 0, 'Task Switching', 'Εναλλαγή εργασιών'] # Βάσει αυτής της λίστας δεν θα περνάνε όλες οι κινήσεις ώστε να αποφεύγονται περιττά μηνύματα. ***** ΝΑ ΒΡΩ ΤΟΝ ΚΩΔΙΚΟ WINDOWS ΤΟΥ ΤΙΤΛΟΥ ΠΑΡΑΘΥΡΟΥ "Εναλλαγή εργασιών"
 # *** Εμφάνιση-ανακοίνωση αποτελεσμάτων
 # Ενεργό παράθυρο Windows
 w = win32gui
