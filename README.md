@@ -86,6 +86,20 @@ Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.c
 
 Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/
 
+6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
+
+Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/
+
+What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
+
+3 Tools to Track and Visualize the Execution of your Python Code | by Khuyen Tran | Apr, 2021 | Towards Data Science: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
+
+5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204
+
+Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/
+
+
+
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
