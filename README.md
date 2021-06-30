@@ -1,3 +1,5 @@
+[Do Not Use Print For Debugging In Python Anymore - by Christopher Tao - Jun, 2021 - Towards Data Science.pdf](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
+[Lambda Functions with Practical Examples in Python - by Susan Maina - Jun, 2021 - Towards Data Science.pdf](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 # PythonLearningGR
 P Y T H O N
 
