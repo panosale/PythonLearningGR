@@ -1,4 +1,4 @@
-[Do Not Use Print For Debugging In Python Anymore - by Christopher Tao - Jun, 2021 - Towards Data Science.pdf](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
+
 
 [Lambda Functions with Practical Examples in Python - by Susan Maina - Jun, 2021 - Towards Data Science.pdf](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 # PythonLearningGR
@@ -103,7 +103,7 @@ Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsv
 
 Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/
 
-Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or localy here https://github.com/panosale/PythonLearningGR/blob/master/Documentation/Do%20Not%20Use%20Print%20For%20Debugging%20In%20Python%20Anymore%20-%20by%20Christopher%20Tao%20-%20Jun%2C%202021%20-%20Towards%20Data%20Science.pdf
+Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or localy here https://github.com/panosale/PythonLearningGR/blob/master/Documentation/Lambda%20Functions%20with%20Practical%20Examples%20in%20Python%20-%20by%20Susan%20Maina%20-%20Jun%2C%202021%20-%20Towards%20Data%20Science.pdf
 
