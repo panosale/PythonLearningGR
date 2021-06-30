@@ -98,6 +98,12 @@ What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.co
 
 Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/
 
+Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/
+
+Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d
+
+Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8
+
 
 
 
