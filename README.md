@@ -98,7 +98,7 @@ What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.co
 
 Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/
 
-Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/
+Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/blob/master/Documentation/Measuring%20memory%20usage%20in%20Python-%20it%E2%80%99s%20tricky!.pdf)
 
 Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
 
