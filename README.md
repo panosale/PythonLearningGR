@@ -96,7 +96,7 @@ What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.co
 
 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204
 
-Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/
+Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
 Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
 
