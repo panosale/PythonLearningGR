@@ -74,7 +74,7 @@ Understanding Feature Importance and How to Implement it in Python: https://towa
 
 11 Python Built-in Functions You Should Know: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
 
-The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/
+The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
 
 Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
 
