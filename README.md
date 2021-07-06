@@ -84,7 +84,7 @@ So you wanna Data Science?. A guide for newbies interesting in…: https://towar
 
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/
 
-Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/
+Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
 
 6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
 
