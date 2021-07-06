@@ -88,7 +88,7 @@ Python Memory Management | What is Python Memory Management: https://www.analyti
 
 6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
 
-Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/
+Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
 What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
