@@ -23,7 +23,7 @@ Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.h
 
 Set 2 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2017/Exercises/index.html - N/A ?
 
-Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED IN "Exercises\Rousogiannis" FOLDER.
+Set 3 - http://rousogiannis.blogspot.com/2016/01/python.html - DOWNLOADED IN ["Exercises\Rousogiannis"](https://github.com/panosale/PythonLearningGR/tree/master/Exercises/Karatolos) FOLDER.
 
 Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED IN "Exercises\Karatolos" FOLDER.
 
