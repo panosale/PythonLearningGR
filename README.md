@@ -82,7 +82,7 @@ How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | 
 
 So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
 
-Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/
+Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
 
 Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
 
