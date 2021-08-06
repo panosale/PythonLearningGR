@@ -40,8 +40,6 @@ When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and
 
 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
 
-Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
-
 Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
 Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
@@ -53,8 +51,6 @@ Understand Loops in Python with One Article: https://towardsdatascience.com/unde
 Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
 
 A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
-
-3 Useful Projects to learn Python Classes: https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297
 
 Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
 
@@ -86,8 +82,6 @@ Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.c
 
 Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
 
-6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
-
 Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
 What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
@@ -104,7 +98,29 @@ Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 202
 
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
+Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
+Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
+
+Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
+
+What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/
+
+Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/
+
+Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
+
+Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
+
+IDEAS
+
+Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
+
+3 Useful Projects to learn Python Classes: https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297
+
+6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
+
+5 Python projects for absolute beginners to learn programming | TechGig - https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
 
 
 * ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
