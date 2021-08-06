@@ -107,7 +107,7 @@ Python If Else Statement – Conditional Statements Explained - https://www.free
 
 Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
-Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/
+Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
 
