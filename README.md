@@ -107,8 +107,6 @@ Python If Else Statement – Conditional Statements Explained - https://www.free
 
 Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
-What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/
-
 Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
@@ -123,9 +121,13 @@ Test your Python skills with these 10 projects: https://thenextweb.com/syndicati
 
 3 Useful Projects to learn Python Classes: https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297
 
+3 Interesting Python Projects With Code for Beginners! - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners/
+
 6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
 
 5 Python projects for absolute beginners to learn programming | TechGig - https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
+
+What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/
 
 12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
