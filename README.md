@@ -109,15 +109,19 @@ Python If Else Statement – Conditional Statements Explained - https://www.free
 
 Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
-Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
+### OPENCV
 
-Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
+An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/
+
+Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
 
+Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
 
 
-### ΙΔΕΕΣ
+
+### ΙΔΕΕΣ - PROJECTS
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
