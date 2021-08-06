@@ -112,7 +112,7 @@ Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.a
 
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
 
-IDEAS
+** IDEAS
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
