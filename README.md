@@ -1,9 +1,8 @@
-# PythonLearningGR
-P Y T H O N
+# Learn Python - GR
 
-Μ Α Θ Η Μ Α Τ Α   -   Α Σ Κ Η Σ Ε Ι Σ - Ε Ρ Γ Α Λ Ε Ι Α
+## Μ Α Θ Η Μ Α Τ Α   -   Α Σ Κ Η Σ Ε Ι Σ - Ε Ρ Γ Α Λ Ε Ι Α
 
-* SITES & TITORIALS
+### SITES & TITORIALS
 
 https://docs.python.org/3/tutorial/
 
@@ -12,12 +11,12 @@ https://www.guru99.com/python-tutorials.html
 https://realpython.com/ (needs to be member)
 
 
-* ΒΙΒΛΙΑ
+### ΒΙΒΛΙΑ
 
 https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
 
 
-* ΑΣΚΗΣΕΙΣ
+### ΑΣΚΗΣΕΙΣ
 
 Set 1 - http://users.tem.uoc.gr/~komineas/Teaching/MEM104_2016/exercises/index.html - N/A ?
 
@@ -32,7 +31,7 @@ Set 5 - http://ecourse.uoi.gr/mod/forum/discuss.php?d=9924 - Οδηγεί στο
 Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 
-* ΑΡΘΡΑ
+## ΑΡΘΡΑ
 
 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
 
@@ -112,7 +111,7 @@ Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.a
 
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
 
-** IDEAS
+### IDEAS
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
@@ -123,7 +122,7 @@ Test your Python skills with these 10 projects: https://thenextweb.com/syndicati
 5 Python projects for absolute beginners to learn programming | TechGig - https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
 
 
-* ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
+## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
