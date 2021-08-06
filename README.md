@@ -75,8 +75,6 @@ Here's how you can master Python, one of the most popular coding languages | ZDN
 
 How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
-So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
-
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
 
 Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
@@ -97,6 +95,12 @@ Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 202
 
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
+3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
+
+GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
+
+Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+
 Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
 Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
@@ -111,7 +115,9 @@ Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.a
 
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
 
-### IDEAS
+
+
+### ΙΔΕΕΣ
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
@@ -121,6 +127,19 @@ Test your Python skills with these 10 projects: https://thenextweb.com/syndicati
 
 5 Python projects for absolute beginners to learn programming | TechGig - https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
 
+12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
+
+
+
+### ΓΕΝΙΚΑ ΑΡΘΡΑ
+
+So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
+
+Programming VS Coding VS Development – What's the Difference? - https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/
+
+5 Preferred programming languages for game development | TechGig - https://content.techgig.com/5-preferred-programming-languages-for-game-development/articleshow/84677550.cms
+
+Top 8 Programming Languages For Game Developers - https://analyticsindiamag.com/top-8-programming-languages-for-game-developers/
 
 ## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
