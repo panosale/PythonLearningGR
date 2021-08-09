@@ -111,7 +111,7 @@ Functions in Python – Explained with Code Examples - https://www.freecodecamp.
 
 ### OPENCV
 
-An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/
+An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
 
 Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
