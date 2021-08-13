@@ -115,9 +115,10 @@ An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com
 
 Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
-Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/
+Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
-Some Advanced OpenCV Functions For Your Computer Vision Projects - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/
+Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
+
 
 
 
