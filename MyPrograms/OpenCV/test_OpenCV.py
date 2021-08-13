@@ -1,7 +1,7 @@
 import cv2
 # load it in GRAYSCALE color mode...
-image1 = cv2.imread("""D:\My Documents\Programming\Python\OpenCV_tests\OpenCV_logo.png""", 0)
-image2 = cv2.imread("""D:\My Documents\Programming\Python\OpenCV_tests\entomo.jpg""", 0)
+image1 = cv2.imread("""D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\OpenCV\OpenCV_logo.png""", 0)
+image2 = cv2.imread("""D:\Common\Programming\GitHub\PythonLearningGR\MyPrograms\OpenCV\entomo.jpg""", 0)
 cv2.imshow('Analytics Vidhya Computer Vision', image1)
 cv2.imshow('Entomo', image2)
 image3 = image2[0:300]
