@@ -109,6 +109,10 @@ Python If Else Statement – Conditional Statements Explained - https://www.free
 
 Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
+How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
+
+
+
 ### OPENCV
 
 An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
@@ -118,7 +122,6 @@ Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.an
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
-
 
 
 
