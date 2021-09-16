@@ -43,7 +43,8 @@ Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
 
-3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
+3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
+
 
 Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
