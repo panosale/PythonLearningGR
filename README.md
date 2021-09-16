@@ -127,6 +127,8 @@ Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreed
 
 ### OPENCV
 
+Open Source Computer Vision - https://docs.opencv.org/master/index.html
+
 An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
 
 Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
