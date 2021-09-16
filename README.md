@@ -10,6 +10,13 @@ https://www.guru99.com/python-tutorials.html
 
 https://realpython.com/ (needs to be member)
 
+Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
+
+The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
+
+A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
+
+
 
 ### ΒΙΒΛΙΑ
 
@@ -33,8 +40,6 @@ Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 ## ΑΡΘΡΑ
 
-12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
-
 When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
 
 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
@@ -47,19 +52,11 @@ Methods in Python – A Key Concept of Object Oriented Programming: https://www.
 
 Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
 
-Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
-
-A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
-
-Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
-
 Three Functions to Know in Python: https://towardsdatascience.com/three-functions-to-know-in-python-4f2d27a4d05
 
 Learn Python by coding a simple game: https://opensource.com/article/20/12/learn-python
 
 10 Surprisingly Useful Base Python Functions: https://towardsdatascience.com/10-surprisingly-useful-base-python-functions-822d86972a23
-
-Python Code Performance Measurement – Measure the right metric to optimize better!: https://www.analyticsvidhya.com/blog/2021/01/python-code-performance-measurement-measure-the-right-metric-to-optimize-better/
 
 Functional Programming in Python: When and How to Use It – Real Python: https://realpython.com/python-functional-programming/
 
@@ -71,33 +68,21 @@ Understanding Feature Importance and How to Implement it in Python: https://towa
 
 Python most powerful functions: map(), filter(), and reduce() in 5 minutes  - https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/
 
-The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
-
 Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
 
 How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
 
-Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
-
 Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
 What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
-
-3 Tools to Track and Visualize the Execution of your Python Code | by Khuyen Tran | Apr, 2021 | Towards Data Science: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
 
 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
-Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
-
-Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
-
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
-
-3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
 GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
 
@@ -121,7 +106,27 @@ Python any() and all() Functions – Explained with Examples - https://www.freec
 
 Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
 
+
+
+### PROGRAMS IMPROVEMENTS
+
+12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
+
+3 Tools to Track and Visualize the Execution of your Python Code | by Khuyen Tran | Apr, 2021 | Towards Data Science: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
+
+Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
+
+Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
+
+Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
+
+3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
+
+Python Code Performance Measurement – Measure the right metric to optimize better!: https://www.analyticsvidhya.com/blog/2021/01/python-code-performance-measurement-measure-the-right-metric-to-optimize-better/
+
 Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
+
+How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
 
 
@@ -140,6 +145,8 @@ Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - htt
 
 
 ### ΙΔΕΕΣ - PROJECTS
+
+Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
 
 Test your Python skills with these 10 projects: https://thenextweb.com/syndication/2020/09/30/test-your-python-skills-with-these-10-projects/amp/
 
