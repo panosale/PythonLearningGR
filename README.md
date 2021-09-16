@@ -103,15 +103,24 @@ GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Py
 
 Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
+Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
+
 Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
 Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
 
 Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
+Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/
+
+15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b
+
 How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
 Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
+
+Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
+
 
 
 ### OPENCV
@@ -123,6 +132,8 @@ Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.an
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
+
+Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
 
 
 
@@ -142,6 +153,8 @@ What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www
 
 12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
+25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python - https://www.freecodecamp.org/news/python-projects-for-beginners/
+
 
 
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
@@ -153,6 +166,12 @@ Programming VS Coding VS Development – What's the Difference? - https://www.fr
 5 Preferred programming languages for game development | TechGig - https://content.techgig.com/5-preferred-programming-languages-for-game-development/articleshow/84677550.cms
 
 Top 8 Programming Languages For Game Developers - https://analyticsindiamag.com/top-8-programming-languages-for-game-developers/
+
+Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning - https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/
+
+What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
+
+
 
 ## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
