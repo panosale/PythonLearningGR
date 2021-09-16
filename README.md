@@ -121,6 +121,8 @@ Python any() and all() Functions – Explained with Examples - https://www.freec
 
 Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
 
+Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
+
 
 
 ### OPENCV
@@ -132,8 +134,6 @@ Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.an
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
-
-Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
 
 
 
