@@ -40,7 +40,8 @@ Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 ## ΑΡΘΡΑ
 
-When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453
+When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
+
 
 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba
 
