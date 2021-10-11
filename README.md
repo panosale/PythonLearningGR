@@ -186,7 +186,10 @@ Programming, Math, and Statistics You Need to Know for Data Science and Machine 
 
 What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
 
-What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7319656/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+
+
+4del_  [HERE](https://github.com/panosale/PythonLearningGR/files/7319656/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
 
 
 
