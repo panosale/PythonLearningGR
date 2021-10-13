@@ -112,6 +112,7 @@ Python any() and all() Functions – Explained with Examples - https://www.freec
 
 Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
 
+Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
 
 
 ### PROGRAMS IMPROVEMENTS
