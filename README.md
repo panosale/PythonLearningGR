@@ -114,6 +114,14 @@ Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analytic
 
 Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
 
+How to Automate Things Using Python - https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+
+Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks - https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
+
+Getting Started With Python on Hardware - Make: - https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
+
+
+
 
 ### PROGRAMS IMPROVEMENTS
 
@@ -134,6 +142,12 @@ Python Code Performance Measurement – Measure the right metric to optimize bet
 Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
 
 How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
+
+Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
+
+Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
+
+Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/
 
 
 
@@ -188,6 +202,10 @@ Programming, Math, and Statistics You Need to Know for Data Science and Machine 
 What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
 
 What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+
+The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
+
+Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
 
 
 
