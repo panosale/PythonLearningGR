@@ -80,15 +80,17 @@ How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | 
 
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
 
-Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
-
 What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
+Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
+
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
+
+Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/
 
 GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
 
@@ -120,6 +122,9 @@ Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks - https://www.
 
 Getting Started With Python on Hardware - Make: - https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
 
+Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
+
+Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
 
 
 
@@ -142,12 +147,6 @@ Python Code Performance Measurement – Measure the right metric to optimize bet
 Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
 
 How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
-
-Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
-
-Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
-
-Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/
 
 
 
