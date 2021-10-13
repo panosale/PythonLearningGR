@@ -20,6 +20,10 @@ The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or l
 
 A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
 
+Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
+
+Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+
 
 
 ### ΒΙΒΛΙΑ
@@ -46,9 +50,7 @@ Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
-
 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
-
 
 Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
@@ -74,8 +76,6 @@ Understanding Feature Importance and How to Implement it in Python: https://towa
 
 Python most powerful functions: map(), filter(), and reduce() in 5 minutes  - https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/
 
-Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
-
 How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
@@ -94,8 +94,6 @@ Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news
 
 
 GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
-
-Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
 Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
 
