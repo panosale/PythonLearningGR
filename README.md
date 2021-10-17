@@ -20,9 +20,16 @@ The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or l
 
 A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
 
+Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
+
+Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+
+
+
 ### ΒΙΒΛΙΑ
 
 https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
+
 
 ### ΑΣΚΗΣΕΙΣ
 
@@ -37,6 +44,7 @@ Set 4 - http://users.sch.gr/karatolos/?page_id=411 - DOWNLOADED IN ["Exercises\K
 Set 5 - http://ecourse.uoi.gr/mod/forum/discuss.php?d=9924 - Οδηγεί στον παρακάτω σύνδεσμο:
 
 Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
+
 
 ## ΑΡΘΡΑ
 
@@ -68,13 +76,9 @@ Understanding Feature Importance and How to Implement it in Python: https://towa
 
 Python most powerful functions: map(), filter(), and reduce() in 5 minutes  - https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/
 
-Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
-
 How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
 Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
-
-Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
 What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
@@ -82,11 +86,14 @@ What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.co
 
 Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
+Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
+
 Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
-GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
+Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
-Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+
+GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
 
 Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
 
@@ -105,6 +112,20 @@ How to Format a String in Python - https://www.freecodecamp.org/news/how-to-form
 Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
 
 Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
+
+Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
+
+How to Automate Things Using Python - https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+
+Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks - https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
+
+Getting Started With Python on Hardware - Make: - https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
+
+Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
+
+Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
+
+
 
 ### PROGRAMS IMPROVEMENTS
 
@@ -126,6 +147,8 @@ Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreed
 
 How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
+
+
 ### OPENCV
 
 Open Source Computer Vision - https://docs.opencv.org/master/index.html
@@ -137,6 +160,8 @@ Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.an
 Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
 Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
+
+
 
 ### ΙΔΕΕΣ - PROJECTS
 
@@ -158,6 +183,8 @@ What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www
 
 25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python - https://www.freecodecamp.org/news/python-projects-for-beginners/
 
+
+
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
 
 So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
@@ -172,6 +199,14 @@ Programming, Math, and Statistics You Need to Know for Data Science and Machine 
 
 What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
 
+What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+
+The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
+
+Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
+
+
+
 ## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
 pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
@@ -180,29 +215,38 @@ https://pypi.org/project/pylint/
 
 https://github.com/PyCQA/pylint/
 
-pip install pylint
+        pip install pylint
+
 Jupyterlab
 
-pip install jupyterlab
+        pip install jupyterlab
+
 Repl.it - Online Python coding environment
 
-https://replit.com/ - Σύνδεση με τα στοιχεία του GitHub
+        https://replit.com/ - Σύνδεση με τα στοιχεία του GitHub
+        
+
 * ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
+
 * * Από Command Prompt:
 
-    pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
-  * * Από Python:
+        pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
 
-      dir(μεταβλητή ή κλάση) -> Εμφανίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
-      type(μεταβλητή) -> Εμφανίζει τον τύπο της μεταβλητής.
-    * ΣΗΜΕΙΩΣΕΙΣ
-    * ***** ΠΡΟΒΛΗΜΑΤΑ *****
-      Για να ελέγξουμε αν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών εκτελούμε το "check_if_import_cv2_works_fine.py".
-      Αν το VCS εμφανίσει μήνυμα "Module 'XXX' has no 'yyyyyyyy' member" κάνουμε τα παρακάτω:
+* * Από Python:
 
-  1. On VScode: CTRL + Shift + P
-  2. Choose "Preferences: Open Settings (JSON)"
-  3. Add this line into JSON file:
-  4. "python.linting.pylintArgs": ["--generate-members"]
+        dir(μεταβλητή ή κλάση) -> Εμφανίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
+        type(μεταβλητή) -> Εμφανίζει τον τύπο της μεταβλητής.
+        
 
-  Οι οδηγίες βρίσκονται εδώ: https://github.com/PyCQA/pylint/issues/2426 και εδώ: https://answers.opencv.org/question/200869/e1101module-cv2-has-no-imread-member/
+* ΣΗΜΕΙΩΣΕΙΣ
+
+***** ΠΡΟΒΛΗΜΑΤΑ *****
+
+Για να ελέγξουμε αν αναγνωρίζονται τα μέλη κάποιων βιβλιοθηκών εκτελούμε το "check_if_import_cv2_works_fine.py".
+Αν το VCS εμφανίσει μήνυμα "Module 'XXX' has no 'yyyyyyyy' member" κάνουμε τα παρακάτω:
+1.    On VScode: CTRL + Shift + P
+2.    Choose "Preferences: Open Settings (JSON)"
+3.    Add this line into JSON file:
+4.    "python.linting.pylintArgs": ["--generate-members"]
+
+Οι οδηγίες βρίσκονται εδώ: https://github.com/PyCQA/pylint/issues/2426 και εδώ: https://answers.opencv.org/question/200869/e1101module-cv2-has-no-imread-member/
