@@ -4,25 +4,25 @@
 
 ### ABOUT GITHUB
 
-Git and GitHub - The Complete Guides - https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
+* Git and GitHub - The Complete Guides - https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
 
 ### SITES & TITORIALS
 
-https://docs.python.org/3/tutorial/
+* https://docs.python.org/3/tutorial/
 
-https://www.guru99.com/python-tutorials.html
+* https://www.guru99.com/python-tutorials.html
 
-https://realpython.com/ (needs to be member)
+* https://realpython.com/ (needs to be member)
 
-Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
+* Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
 
-The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
+* The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
 
-A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
+* A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
 
-Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
+* Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
 
-Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+* Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
 #### VIDEOS
 
@@ -33,7 +33,7 @@ Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.co
 
 ### ΒΙΒΛΙΑ
 
-https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
+* https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
 
 
 ### ΑΣΚΗΣΕΙΣ
@@ -53,15 +53,15 @@ Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 ## ΑΡΘΡΑ
 
-When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
+* When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
-3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
+* 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
-Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
+* Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
-Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
+* Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
 
-Methods in Python – A Key Concept of Object Oriented Programming: https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/
+* Methods in Python – A Key Concept of Object Oriented Programming: https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/
 
 Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
 
