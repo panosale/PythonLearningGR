@@ -24,6 +24,8 @@
 
 * Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
+* GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
+
 #### VIDEOS
 
 * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
@@ -64,6 +66,20 @@
 
 * Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
+### STRINGS
+
+* Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
+
+* Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/
+
+* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b
+
+* How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
+
+### FILES
+
+* 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
+
 ### LAMBDA FUNCTIONS
 
 * Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
@@ -75,8 +91,6 @@
 ### ΔΙΑΦΟΡΑ
 
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
-
-* 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
 * Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
@@ -106,19 +120,9 @@
 
 * What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
-* Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
-
-* GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
-
 * Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
 
 * Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
-
-* Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/
-
-* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b
-
-* How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
 * Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
 
