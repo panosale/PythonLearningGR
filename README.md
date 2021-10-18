@@ -24,9 +24,9 @@
 
 * Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
-* #### VIDEOS
+#### VIDEOS
 
-* * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
+* Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
 
 
 
@@ -34,6 +34,9 @@
 ### ΒΙΒΛΙΑ
 
 * https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
+
+* 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
+
 
 
 ### ΑΣΚΗΣΕΙΣ
@@ -53,6 +56,24 @@
 
 ## ΑΡΘΡΑ
 
+### LOOPS
+
+* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
+
+* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
+
+* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
+
+### LAMBDA FUNCTIONS
+
+* Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
+
+* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
+
+* Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
+
+### ΔΙΑΦΟΡΑ
+
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
@@ -62,8 +83,6 @@
 * Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
 
 * Methods in Python – A Key Concept of Object Oriented Programming: https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/
-
-* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
 
 * Three Functions to Know in Python: https://towardsdatascience.com/three-functions-to-know-in-python-4f2d27a4d05
 
@@ -87,21 +106,9 @@
 
 * What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
-* 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
-
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
-* Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
-
-* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
-
-* Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
-
 * GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
-
-* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
-
-* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
 * Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
 
