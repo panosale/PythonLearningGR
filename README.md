@@ -24,9 +24,9 @@
 
 * Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
-#### VIDEOS
+* #### VIDEOS
 
-* Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
+* * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
 
 
 
