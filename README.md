@@ -24,6 +24,8 @@ Here's how you can master Python, one of the most popular coding languages | ZDN
 
 Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
 
+Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI
+
 
 
 ### ΒΙΒΛΙΑ
