@@ -58,7 +58,7 @@
 
 ## ΑΡΘΡΑ
 
-### LOOPS
+#### LOOPS
 
 * Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
 
@@ -66,7 +66,7 @@
 
 * Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
-### STRINGS
+#### STRINGS
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
@@ -76,11 +76,11 @@
 
 * How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
-### FILES
+#### FILES
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
-### LAMBDA FUNCTIONS
+#### LAMBDA FUNCTIONS
 
 * Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
@@ -88,7 +88,7 @@
 
 * Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
-### ΔΙΑΦΟΡΑ
+#### ΔΙΑΦΟΡΑ
 
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
@@ -140,9 +140,7 @@
 
 * Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
 
-
-
-### PROGRAMS IMPROVEMENTS
+#### PROGRAMS IMPROVEMENTS
 
 * 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
 
@@ -162,9 +160,7 @@
 
 * How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
-
-
-### OPENCV
+#### OPENCV
 
 * Open Source Computer Vision - https://docs.opencv.org/master/index.html
 
@@ -176,9 +172,7 @@
 
 * Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
-
-
-### ΙΔΕΕΣ - PROJECTS
+#### ΙΔΕΕΣ - PROJECTS
 
 * Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
 
