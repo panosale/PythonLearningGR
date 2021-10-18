@@ -213,19 +213,19 @@
 
 ## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
-pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
+* pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
-https://pypi.org/project/pylint/
+* * https://pypi.org/project/pylint/
 
-https://github.com/PyCQA/pylint/
+* * https://github.com/PyCQA/pylint/
 
         pip install pylint
 
-Jupyterlab
+* Jupyterlab
 
         pip install jupyterlab
 
-Repl.it - Online Python coding environment
+* Repl.it - Online Python coding environment
 
         https://replit.com/ - Σύνδεση με τα στοιχεία του GitHub
         
