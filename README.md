@@ -90,6 +90,12 @@
 
 * Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
+#### LISTS & TUPLES
+
+* Python NamedTuple Examples – How to Create and Work with NamedTuples - https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/
+
+* How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593
+
 #### ΔΙΑΦΟΡΑ
 
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
@@ -141,6 +147,20 @@
 * Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
 
 * Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
+
+* Python range() Function – Explained with Code Examples - https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/
+
+* Introduction to Data structures and Algorithms in Python - DEV Community - https://dev.to/luxacademy/data-structures-and-algorithms-in-python-2i88
+
+* 12 Of My Favorite Python Practices For Better Functions | by Emmett Boudreau | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/12-of-my-favorite-python-practices-for-better-functions-7a21d18cfb38
+
+* How to Generate Automated PDF Documents with Python | by M Khorasani | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-55981f4d9e3
+
+* Stop Hardcoding Sensitive Data in Your Python Applications | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3
+
+* Understanding Python imports, __init__.py and pythonpath — once and for all | by Dr. Varshita Sher | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355
+
+* 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f
 
 #### PROGRAMS IMPROVEMENTS
 
@@ -215,6 +235,10 @@
 * Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
 
 * Functional vs object-oriented programming | CircleCI - https://circleci.com/blog/functional-vs-object-oriented-programming/
+
+* Object-oriented Programming vs. Functional Programming: Which Is Better? | Hacker Noon - https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better
+
+* C++ Programming: Arena Allocation - DEV Community - https://dev.to/aboss123/advanced-c-arena-allocation-3580
 
 
 
