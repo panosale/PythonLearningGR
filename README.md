@@ -76,6 +76,8 @@
 
 * How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
+* Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/
+
 #### FILES
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
@@ -192,8 +194,6 @@
 
 * 25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python - https://www.freecodecamp.org/news/python-projects-for-beginners/
 
-
-
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
 
 * So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
@@ -213,6 +213,8 @@
 * The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
 
 * Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
+
+* Functional vs object-oriented programming | CircleCI - https://circleci.com/blog/functional-vs-object-oriented-programming/
 
 
 
