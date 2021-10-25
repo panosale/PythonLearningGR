@@ -260,13 +260,13 @@
 
         https://replit.com/ - Σύνδεση με τα στοιχεία του GitHub
         
-* pyinstaller - Δημιουργία εκτελέσιμου αρχείου (.exe) από .py
+* pyinstaller - Δημιουργία εκτελέσιμου αρχείου (.exe) από Python script (.py)
 
-* * 1 * * Εγκατάσταση: pip install pyinstaller
+        1. Εγκατάσταση: pip install pyinstaller
 
-* * 2 * * Χρήση: pyinstaller --onefile [pythonScriptName].py
+        2. Χρήση: [x:\ScriptLocationFolder]\pyinstaller --onefile [pythonScriptName].py
 
-* * 3 * * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
+* * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
 
 
 ### ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
