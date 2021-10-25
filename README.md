@@ -262,11 +262,11 @@
         
 * pyinstaller - Δημιουργία εκτελέσιμου αρχείου (.exe) από .py
 
-* * 1 Εγκατάσταση: pip install pyinstaller
+* * 1 * * Εγκατάσταση: pip install pyinstaller
 
-* * 2 Χρήση: pyinstaller --onefile [pythonScriptName].py
+* * 2 * * Χρήση: pyinstaller --onefile [pythonScriptName].py
 
-* * 3 Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
+* * 3 * * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
 
 
 ### ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
