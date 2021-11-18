@@ -66,6 +66,8 @@
 
 * Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
 
+* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/
+
 #### STRINGS
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
@@ -213,6 +215,10 @@
 * 12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
 * 25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python - https://www.freecodecamp.org/news/python-projects-for-beginners/
+
+* Know Top Python Projects Every Developer Should Try in 2021 - https://www.analyticsinsight.net/know-top-python-projects-every-developer-should-try-in-2021/
+
+* 3 Python Projects That Will Help Automate Your Life | by Frank Andrade | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/3-python-projects-that-will-help-automate-your-life-b6d48a4c1fa2
 
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
 
