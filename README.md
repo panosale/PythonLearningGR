@@ -280,6 +280,8 @@
 * * Από Command Prompt:
 
         pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
+        
+        python -m tabnanny file_name.py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο file_name.py
 
 * * Από Python:
 
