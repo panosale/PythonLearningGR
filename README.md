@@ -282,19 +282,19 @@
 
 ### ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
 
-* * Από Command Prompt:
+* Από Command Prompt:
 
-        pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
+      pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
         
-        python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
+      python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
         
-        [x:\ScriptLocationFolder]\prospector --strictness veryhigh --doc-warnings [pythonScriptName].py -> Κάνει ανάλυση του κώδικα του [pythonScriptName].py και εμφανίζει προτάσεις βελτίωσης αναγνωσιμότητάς του.
+      [x:\ScriptLocationFolder]\prospector --strictness veryhigh --doc-warnings [pythonScriptName].py -> Κάνει ανάλυση του κώδικα του [pythonScriptName].py και εμφανίζει προτάσεις βελτίωσης αναγνωσιμότητάς του.
 
-* * Από Python:
+* Από Python:
 
-        dir(μεταβλητή ή κλάση) -> Εμφανίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
+      dir(μεταβλητή ή κλάση) -> Εμφανίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
 
-        type(μεταβλητή) -> Εμφανίζει τον τύπο της μεταβλητής.
+      type(μεταβλητή) -> Εμφανίζει τον τύπο της μεταβλητής.
         
         
 
