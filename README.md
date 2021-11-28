@@ -274,6 +274,11 @@
 
 * * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
 
+* prospector - Εργαλείο ελέγχου κώδικα (βλ. χρήση παρακάτω)
+
+        pip install prospector
+
+
 
 ### ΧΡΗΣΙΜΕΣ ΕΝΤΟΛΕΣ
 
@@ -283,7 +288,7 @@
         
         python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
         
-        [x:\ScriptLocationFolder]\prospector --strictness veryhigh --doc-warnings [pythonScriptName].py -> Κάνει ανάλυση του κώδικα του [pythonScriptName].py και εμφανίζει προτάσεις βελτίωσης αναγνωσιμότητάς του. Γίνεται εγκατάσταση μέσω του "pip install prospector".
+        [x:\ScriptLocationFolder]\prospector --strictness veryhigh --doc-warnings [pythonScriptName].py -> Κάνει ανάλυση του κώδικα του [pythonScriptName].py και εμφανίζει προτάσεις βελτίωσης αναγνωσιμότητάς του.
 
 * * Από Python:
 
