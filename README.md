@@ -281,7 +281,9 @@
 
         pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
         
-        python -m tabnanny file_name.py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο file_name.py
+        python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
+        
+        [x:\ScriptLocationFolder]\prospector --strictness veryhigh --doc-warnings [pythonScriptName].py -> Κάνει ανάλυση του κώδικα του [pythonScriptName].py και               εμφανίζει προτάσεις βελτίωσης αναγνωσιμότητάς του. Γίνεται εγκατάσταση μέσω του "_pip install prospector_"
 
 * * Από Python:
 
