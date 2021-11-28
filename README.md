@@ -272,7 +272,7 @@
 
         2. Χρήση: [x:\ScriptLocationFolder]\pyinstaller --onefile [pythonScriptName].py
 
-* * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
+        * Περισσότερες πληροφορίες: https://datatofish.com/executable-pyinstaller/
 
 * prospector - Εργαλείο ελέγχου κώδικα (βλ. χρήση παρακάτω)
 
