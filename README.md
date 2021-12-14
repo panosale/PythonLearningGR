@@ -6,7 +6,7 @@
 
 * Git and GitHub - The Complete Guides - https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
 
-### SITES & TITORIALS
+### SITES & TUTORIALS
 
 * https://docs.python.org/3/tutorial/
 
@@ -26,7 +26,7 @@
 
 * GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
 
-#### VIDEOS
+### VIDEOS
 
 * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
 
@@ -56,7 +56,7 @@
 * Set 6 - https://www.w3resource.com/python-exercises/ - ΜΟΝΟ ONLINE.
 
 
-## ΑΡΘΡΑ
+### ΑΡΘΡΑ
 
 #### LOOPS
 
@@ -226,6 +226,8 @@
 
 * How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
+
+
 #### OPENCV
 
 * Open Source Computer Vision - https://docs.opencv.org/master/index.html
@@ -308,7 +310,7 @@
 
 
 
-## ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
+### ΒΟΗΘΗΤΙΚΑ - ΧΡΗΣΙΜΑ ΠΑΚΕΤΑ (γίνονται εγκατάσταση από Command Prompt)
 
 * pylint - Εργαλείο εύρεσης λαθών σε προγράμματα Python
 
@@ -358,7 +360,7 @@
         
         
 
-## ΣΗΜΕΙΩΣΕΙΣ
+### ΣΗΜΕΙΩΣΕΙΣ
 
 ***** ΠΡΟΒΛΗΜΑΤΑ *****
 
