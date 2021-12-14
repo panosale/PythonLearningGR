@@ -68,6 +68,8 @@
 
 * How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/
 
+
+
 #### STRINGS
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
@@ -80,9 +82,17 @@
 
 * Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/
 
+* Python Reverse String – String Reversal in Python Explained with Examples - https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/
+
+* Python Print Variable – How to Print a String and Variable - https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/
+
+
+
 #### FILES
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
+
+
 
 #### LAMBDA FUNCTIONS
 
@@ -92,11 +102,17 @@
 
 * Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
+
+
 #### LISTS & TUPLES
 
 * Python NamedTuple Examples – How to Create and Work with NamedTuples - https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/
 
 * How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593
+
+* List Comprehension in Python - https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/
+
+
 
 #### ΔΙΑΦΟΡΑ
 
@@ -164,6 +180,32 @@
 
 * 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f
 
+* Creating Python Virtual Environment with Pip - DEV Community - https://dev.to/jkariukidev/creating-python-virtual-environment-with-pip-2a4p
+
+* Context Managers; The Best Managers for Python Developers | by Simon Hawe | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/context-managers-the-best-managers-for-python-developers-a5809fb7e428
+
+* 10 Python Code Snippets For Everyday Programming Problems - GeeksforGeeks - https://www.geeksforgeeks.org/10-python-code-snippets-for-everyday-programming-problems/
+
+* How to build and run your Python scripts in a web browser • The Register - https://www.theregister.com/2021/11/30/python_web_wasm/
+
+* Python Code Best Practices - DEV Community - https://dollardhingra.com/blog/python-code-best-practices/
+
+* How to Merge Dictionaries in Python - https://www.freecodecamp.org/news/merge-dictionaries-in-python/
+
+* 5 Most Useful Scripts in Python — 1 | by Harendra Verma | Nov, 2021 | Python in Plain English - https://python.plainenglish.io/5-most-useful-scripts-in-python-e54d70bd00d7
+
+* 10 Tools Python Programmers Can Learn in 2022 - DEV Community - https://dev.to/javinpaul/10-tools-python-programmers-can-learn-in-2022-49ll
+
+
+
+#### ONE-LINERS
+
+* 18 Python one-liners that will speed up your coding process. - DEV Community - https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md
+
+* 11 Useful Python One-Liners You Must Know - https://www.makeuseof.com/useful-python-one-liners-you-must-know/
+
+
+
 #### PROGRAMS IMPROVEMENTS
 
 * 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
@@ -196,6 +238,8 @@
 
 * Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
+
+
 #### ΙΔΕΕΣ - PROJECTS
 
 * Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
@@ -219,6 +263,10 @@
 * Know Top Python Projects Every Developer Should Try in 2021 - https://www.analyticsinsight.net/know-top-python-projects-every-developer-should-try-in-2021/
 
 * 3 Python Projects That Will Help Automate Your Life | by Frank Andrade | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/3-python-projects-that-will-help-automate-your-life-b6d48a4c1fa2
+
+* Python Project – How to Build Tony Stark's JARVIS with Python - https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+
+
 
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
 
@@ -245,6 +293,18 @@
 * Object-oriented Programming vs. Functional Programming: Which Is Better? | Hacker Noon - https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better
 
 * C++ Programming: Arena Allocation - DEV Community - https://dev.to/aboss123/advanced-c-arena-allocation-3580
+
+* 10 Different Programming Languages to Use in Robotic Projects - https://www.analyticsinsight.net/10-different-programming-languages-to-use-in-robotic-projects/
+
+* All the Math You Need to Know in Artificial Intelligence - https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
+
+* TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python | by Dario Radečić | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
+
+* C vs. Python: The Key Differences - https://www.makeuseof.com/c-python-core-differences/
+
+* Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
+
+* JSON for Beginners – JavaScript Object Notation Explained in Plain English - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
 
 
 
