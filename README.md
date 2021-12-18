@@ -242,6 +242,13 @@
 
 
 
+#### MACHINE LEARNING
+
+* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python)
+ - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
+
+
+
 #### ΙΔΕΕΣ - PROJECTS
 
 * Learn Python by Building 12 Projects in This 3-Hour Course: https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/amp/
