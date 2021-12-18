@@ -244,8 +244,7 @@
 
 #### MACHINE LEARNING
 
-* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python)
- - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
+* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
 
 
 
