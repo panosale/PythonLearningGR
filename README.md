@@ -60,13 +60,14 @@
 
 #### LOOPS
 
-* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789
+* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040747/Understand.Loops.in.Python.with.One.Article.pdf)
 
-* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/
+* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040690/Python.Do.While.-.Loop.Example.pdf)
 
-* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/
+* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
 
-* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/
+* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
+
 
 
 
