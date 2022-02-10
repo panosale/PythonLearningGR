@@ -284,6 +284,8 @@
 
 * Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
+* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
+
 
 
 #### MACHINE LEARNING etc
@@ -295,6 +297,7 @@
 * NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
 
 * Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/
+
 
 
 #### ΙΔΕΕΣ - PROJECTS
@@ -364,8 +367,6 @@
 * JSON for Beginners – JavaScript Object Notation Explained in Plain English - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
 
 * The complete beginners guide to dynamic programming  - Stack Overflow Blog - https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/
-
-* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
 
 * 3 Advanced Data Structures Every Programmer Should Know - https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/
 
