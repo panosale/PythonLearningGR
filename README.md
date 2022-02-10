@@ -86,6 +86,12 @@
 
 * Python Print Variable – How to Print a String and Variable - https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/
 
+* Python strip() – How to Trim a String or Line - https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/
+
+* Python String.Replace() – Function in Python for Substring Substitution - https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/
+
+* Python String zfill() - ItsMyCode - https://itsmycode.com/python-string-zfill/
+
 
 
 #### FILES
@@ -196,6 +202,32 @@
 
 * 10 Tools Python Programmers Can Learn in 2022 - DEV Community - https://dev.to/javinpaul/10-tools-python-programmers-can-learn-in-2022-49ll
 
+* Write Clean Python Code Using Pipes - KDnuggets - https://www.kdnuggets.com/2021/12/write-clean-python-code-pipes.html
+
+* Python Requests – How to Interact with Web Services using Python - https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/
+
+* Top 10 Python Tools Every Programmer Should Learn in 2022 - https://www.analyticsinsight.net/top-10-python-tools-every-programmer-should-learn-in-2022/
+
+* 5 More Useful Scripts in Python — 3 | by Harendra Verma | Dec, 2021 | Python in Plain English - https://python.plainenglish.io/5-more-useful-scripts-in-python-3-d4c74037e909
+
+* Top 10 Python Tools Programmers Should Know In 2022 - https://www.analyticsinsight.net/top-10-python-tools-programmers-should-know-in-2022/
+
+* Why are More Developers Using Python for Their Machine Learning Projects? - KDnuggets - https://www.kdnuggets.com/2022/01/developers-python-machine-learning-projects.html
+
+* Interning in CPython - Blog | luminousmen - https://luminousmen.com/post/interning-in-cpython
+
+* Object-Oriented Programming in Python - https://www.freecodecamp.org/news/object-oriented-programming-in-python/
+
+* Draw the Mandelbrot Set in Python – Real Python - https://realpython.com/mandelbrot-set-python/
+
+* 4 keys to writing modern Python in 2022 | InfoWorld - https://www.infoworld.com/article/3648061/4-keys-to-writing-modern-python-in-2022.html
+
+* 10 Useful Tools for Python Developers - https://www.makeuseof.com/python-developer-tools/
+
+* List Index Out of Range – Python Error Message Solved - https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
+
+* 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html
+
 
 
 #### ONE-LINERS
@@ -203,6 +235,8 @@
 * 18 Python one-liners that will speed up your coding process. - DEV Community - https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md
 
 * 11 Useful Python One-Liners You Must Know - https://www.makeuseof.com/useful-python-one-liners-you-must-know/
+
+* Python If-Else Statement in One Line - Ternary Operator Explained | Better Data Science - https://betterdatascience.com/python-if-else-one-line/
 
 
 
@@ -226,6 +260,16 @@
 
 * How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
+* 3 Tools to Track and Visualize the Execution of Your Python Code - KDnuggets - https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
+
+* So Much More Python for Beginners: Functions – The New Stack - https://thenewstack.io/so-much-more-python-for-beginners-functions/
+
+* Python in Visual Studio Code – February 2022 Release - Python - https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2022-release/
+
+* Faster Python made easier with Cython’s pure Python mode | InfoWorld - https://www.infoworld.com/article/3648539/faster-python-made-easier-with-cythons-pure-python-mode.html
+
+* The fastest way to read a CSV in Pandas - https://pythonspeed.com/articles/pandas-read-csv-fast/
+
 
 
 #### OPENCV
@@ -242,10 +286,15 @@
 
 
 
-#### MACHINE LEARNING
+#### MACHINE LEARNING etc
 
 * Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
 
+* Why Is Python Popular for Data Science? - https://www.makeuseof.com/why-is-python-popular-for-data-science/
+
+* NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
+
+* Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/
 
 
 #### ΙΔΕΕΣ - PROJECTS
@@ -313,6 +362,22 @@
 * Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
 
 * JSON for Beginners – JavaScript Object Notation Explained in Plain English - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
+
+* The complete beginners guide to dynamic programming  - Stack Overflow Blog - https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/
+
+* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
+
+* 3 Advanced Data Structures Every Programmer Should Know - https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/
+
+* Primary Interest in Artificial Intelligence: Analytics Insight Survey 2022 - https://www.analyticsinsight.net/primary-interest-in-artificial-intelligence-analytics-insight-survey-2022/
+
+* Why deep-learning methods confidently recognize images that are nonsense - https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html
+
+* Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog - https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
+
+* Top Ten Technologies That Will Outperform AI/ML in 2022 - https://www.analyticsinsight.net/top-ten-technologies-that-will-outperform-ai-ml-in-2022/
+
+* The 6 Best Visual Studio Code Themes to Start Into 2022 | by Marvin Wendt | Dec, 2021 | Better Programming - https://betterprogramming.pub/the-6-best-visual-studio-code-themes-to-start-into-2022-1b1c7b8b60dc
 
 
 
