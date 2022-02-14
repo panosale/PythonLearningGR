@@ -81,17 +81,17 @@
 
 * How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
-* Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/
+* Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061436/Python.String.split.and.join.Methods.-.Explained.with.Examples.pdf)
 
-* Python Reverse String – String Reversal in Python Explained with Examples - https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/
+* Python Reverse String – String Reversal in Python Explained with Examples - https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061490/Python.Reverse.String.-.String.Reversal.in.Python.Explained.with.Examples.pdf)
 
-* Python Print Variable – How to Print a String and Variable - https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/
+* Python Print Variable – How to Print a String and Variable - https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061521/Python.Print.Variable.-.How.to.Print.a.String.and.Variable.pdf)
 
-* Python strip() – How to Trim a String or Line - https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/
+* Python strip() – How to Trim a String or Line - https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061556/Python.strip.-.How.to.Trim.a.String.or.Line.pdf)
 
-* Python String.Replace() – Function in Python for Substring Substitution - https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/
+* Python String.Replace() – Function in Python for Substring Substitution - https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061596/Python.String.Replace.-.Function.in.Python.for.Substring.Substitution.pdf)
 
-* Python String zfill() - ItsMyCode - https://itsmycode.com/python-string-zfill/
+* Python String zfill() - ItsMyCode - https://itsmycode.com/python-string-zfill/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061606/Python.String.zfill.pdf)
 
 
 
