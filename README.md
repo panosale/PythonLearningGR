@@ -288,7 +288,7 @@
 
 * Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
-* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
+* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061680/Multi-Attribute.and.Graph-based.Object.Detection.pdf)
 
 
 
