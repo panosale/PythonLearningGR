@@ -75,9 +75,9 @@
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
-* Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/
+* Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061365/Python.String.Methods.Tutorial.-.How.to.Use.find.and.replace.on.Python.Strings.pdf)
 
-* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b
+* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b or [HERE](https://github.com/panosale/PythonLearningGR/files/8061394/15.Must-Know.Python.String.Methods.pdf)
 
 * How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
