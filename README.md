@@ -229,6 +229,9 @@
 
 * 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html
 
+* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
+
+
 
 
 #### ONE-LINERS
@@ -326,6 +329,9 @@
 * 3 Python Projects That Will Help Automate Your Life | by Frank Andrade | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/3-python-projects-that-will-help-automate-your-life-b6d48a4c1fa2
 
 * Python Project – How to Build Tony Stark's JARVIS with Python - https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+
+* Top 5 Python Projects for Beginners to Look Out for in 2022 - https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
+
 
 
 
