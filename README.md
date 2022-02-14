@@ -16,7 +16,7 @@
 
 * Build your programming skills with these e-courses, from Python to SwiftUI: https://amp.cnn.com/cnn/2020/12/23/cnn-underscored/learn-to-code-bundle-review/index.html
 
-* The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
+* The Python Handbook: https://www.freecodecamp.org/news/the-python-handbook/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770403/python-handbook.pdf)
 
 * A Full-Length Machine Learning Course in Python for Free: https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f
 
@@ -37,7 +37,7 @@
 
 * https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
 
-* 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
+* 5 Python Books to Transfer Your Code to The Next Level | by Sara A. Metwalli | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/5-python-books-to-transfer-your-code-to-the-next-level-a5af0981e204 or [HERE](https://github.com/panosale/PythonLearningGR/files/6764901/5.Python.Books.to.Transfer.Your.Code.to.The.Next.Level.-.by.Sara.A.Metwalli.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 
 
@@ -60,26 +60,26 @@
 
 #### LOOPS
 
-* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040747/Understand.Loops.in.Python.with.One.Article.pdf)
+* Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789 or [HERE](https://github.com/panosale/PythonLearningGR/files/8040747/Understand.Loops.in.Python.with.One.Article.pdf)
 
-* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040690/Python.Do.While.-.Loop.Example.pdf)
+* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040690/Python.Do.While.-.Loop.Example.pdf)
 
-* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
+* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
 
-* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
+* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
 
 
 
 
 #### STRINGS
 
-* Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
+* Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
 * Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/
 
 * 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b
 
-* How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
+* How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
 * Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/
 
@@ -97,17 +97,17 @@
 
 #### FILES
 
-* 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
+* 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
 
 
 #### LAMBDA FUNCTIONS
 
-* Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
+* Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
-* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
+* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
-* Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
+* Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
 
 
@@ -123,7 +123,7 @@
 
 #### ΔΙΑΦΟΡΑ
 
-* When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
+* When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
 * Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
 
@@ -149,7 +149,7 @@
 
 * How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
-* Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
+* Pyton Data Structures: Comparisons and Operations: https://www.analyticsvidhya.com/blog/2021/03/popular-python-data-structures-comparison-operations/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770494/Pyton.Data.Structures-.Comparisons.and.Operations.pdf)
 
 * What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
@@ -157,11 +157,11 @@
 
 * Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
-* Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
+* Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
 
 * Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
 
-* Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
+* Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
 
 * How to Automate Things Using Python - https://www.freecodecamp.org/news/how-to-automate-things-using-python/
 
@@ -229,7 +229,7 @@
 
 * 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html
 
-* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
+* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
 
 
 
@@ -246,15 +246,15 @@
 
 #### PROGRAMS IMPROVEMENTS
 
-* 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
+* 12 Python Tips and Tricks For Writing Better Code - Towards Data Science: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b or [HERE](https://github.com/panosale/PythonLearningGR/files/6765023/12.Python.Tips.and.Tricks.For.Writing.Better.Code.-.by.Pavel.Tech.-.Towards.Data.Science.pdf)
 
 * 3 Tools to Track and Visualize the Execution of your Python Code | by Khuyen Tran | Apr, 2021 | Towards Data Science: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
 
-* Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
+* Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
 
-* Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
+* Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
 
-* Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
+* Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
 
 * 3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
@@ -280,13 +280,13 @@
 
 * Open Source Computer Vision - https://docs.opencv.org/master/index.html
 
-* An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
+* An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
 
 * Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
-* Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
+* Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
-* Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
+* Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
 * Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/
 
@@ -294,7 +294,7 @@
 
 #### MACHINE LEARNING etc
 
-* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
+* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
 
 * Why Is Python Popular for Data Science? - https://www.makeuseof.com/why-is-python-popular-for-data-science/
 
@@ -330,7 +330,7 @@
 
 * Python Project – How to Build Tony Stark's JARVIS with Python - https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
 
-* Top 5 Python Projects for Beginners to Look Out for in 2022 - https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or locally [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
+* Top 5 Python Projects for Beginners to Look Out for in 2022 - https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
 
 
 
@@ -349,7 +349,7 @@
 
 * What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
 
-* What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or locally [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+* What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
 
 * The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
 
