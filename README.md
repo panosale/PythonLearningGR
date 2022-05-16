@@ -124,11 +124,14 @@
 
 #### LISTS & TUPLES
 
-* Python NamedTuple Examples – How to Create and Work with NamedTuples - https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/
+* Python NamedTuple Examples – How to Create and Work with NamedTuples - https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697438/Python.NamedTuple.Examples.How.to.Create.and.Work.with.NamedTuples.pdf)
 
-* How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593
+* How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593 or [HERE](https://github.com/panosale/PythonLearningGR/files/8697481/How.Not.to.Use.Python.Lists.pdf)
 
-* List Comprehension in Python - https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/
+* List Comprehension in Python - https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697508/List.Comprehension.in.Python.pdf)
+
+* Python List insert() – How to Add to a List in Python - https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697501/Python.List.insert.-.How.to.Add.to.a.List.in.Python.pdf)
+
 
 
 
@@ -238,7 +241,7 @@
 
 * List Index Out of Range – Python Error Message Solved - https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
-* 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html
+* 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html or [HERE](https://github.com/panosale/PythonLearningGR/files/8697415/8.x.Series.-.IPython.8.3.0.documentation.pdf)
 
 * Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
 
@@ -313,6 +316,8 @@
 * NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
 
 * Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/
+
+* Machine Learning (ML) - Complete Guide - https://www.jcchouinard.com/machine-learning/
 
 
 
