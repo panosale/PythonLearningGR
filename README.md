@@ -139,8 +139,6 @@
 
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
 
-* Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/
-
 * Top 12 Python Developer Skills You Must Need to Know: https://towardsdatascience.com/top-12-python-developer-skills-you-must-need-to-know-9e2b6c7fc6c
 
 * Methods in Python – A Key Concept of Object Oriented Programming: https://www.analyticsvidhya.com/blog/2020/11/basic-concepts-object-oriented-programming-types-methods-python/
@@ -172,8 +170,6 @@
 * Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
 * Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
-
-* Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/
 
 * Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
 
@@ -309,15 +305,19 @@
 
 #### MACHINE LEARNING etc
 
+* Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/ or [ΗΕΡΕ](https://github.com/panosale/PythonLearningGR/files/8698626/Programming.language.Python.is.a.big.hit.for.machine.learning.But.now.it.needs.to.change.pdf)
+
+* Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698684/Top.7.Python.NLP.Libraries.and.Their.Applications.in.2021.pdf)
+
 * Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
 
-* Why Is Python Popular for Data Science? - https://www.makeuseof.com/why-is-python-popular-for-data-science/
+* Why Is Python Popular for Data Science? - https://www.makeuseof.com/why-is-python-popular-for-data-science/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698727/Why.Is.Python.Popular.for.Data.Science.pdf)
 
-* NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
+* NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698783/NLP.Tutorials.Part.-I.from.Basics.to.Advance.pdf)
 
-* Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/
+* Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698794/Top.10.Python.Libraries.Data.Scientists.Should.Know.in.2022.pdf)
 
-* Machine Learning (ML) - Complete Guide - https://www.jcchouinard.com/machine-learning/
+* Machine Learning (ML) - Complete Guide - https://www.jcchouinard.com/machine-learning/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698813/Machine.Learning.ML.-.Complete.Guide.pdf)
 
 
 
