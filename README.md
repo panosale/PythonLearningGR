@@ -242,6 +242,7 @@
 
 * Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
 
+* Python Global Variables – How to Define a Global Variable Example - https://www.freecodecamp.org/news/python-global-variables-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697391/Python.Global.Variables.-.How.to.Define.a.Global.Variable.Example.pdf)
 
 
 
