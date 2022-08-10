@@ -11,11 +11,17 @@
 
 Καλή μάθηση!
 
+
+
 ## Μ Α Θ Η Μ Α Τ Α   -   Α Σ Κ Η Σ Ε Ι Σ - Ε Ρ Γ Α Λ Ε Ι Α
 
 ### ABOUT GITHUB
 
 * Git and GitHub - The Complete Guides - https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
+
+* How to Write Better Git Commit Messages – A Step-By-Step Guide - https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+
+
 
 ### SITES & TUTORIALS
 
@@ -40,7 +46,6 @@
 ### VIDEOS
 
 * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
-
 
 
 
@@ -81,7 +86,6 @@
 
 
 
-
 #### STRINGS
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
@@ -110,6 +114,8 @@
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
+* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/
+
 
 
 #### LAMBDA FUNCTIONS
@@ -119,6 +125,8 @@
 * Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 * Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
+
+* Python for Beginners: How to Read Text from a File – The New Stack - https://thenewstack.io/python-for-beginners-how-to-read-text-from-a-file/
 
 
 
@@ -243,6 +251,24 @@
 
 * Python Global Variables – How to Define a Global Variable Example - https://www.freecodecamp.org/news/python-global-variables-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697391/Python.Global.Variables.-.How.to.Define.a.Global.Variable.Example.pdf)
 
+* Python for Beginners: The Range() Function – The New Stack - https://thenewstack.io/python-for-beginners-the-range-function/
+
+* Providing Multiple Constructors in Your Python Classes – Real Python - https://realpython.com/python-multiple-constructors/
+
+* Python If-Else – Python Conditional Syntax Example - https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/
+
+* Python for Beginners: Data Types – The New Stack - https://thenewstack.io/python-for-beginners-data-types/
+
+* Top 10 Python Programming Tips and Tricks Beginners to Follow - https://www.analyticsinsight.net/top-10-python-programming-tips-and-tricks-beginners-to-follow/
+
+* Top 5 Myths around Python Programming Language - https://www.analyticsinsight.net/top-5-myths-around-python-programming-language/
+
+* How to Run Python Functions in Parallel Using Ray API | by Konstantinos Patronas | Mar, 2022 | Better Programming - https://betterprogramming.pub/python-use-ray-to-run-functions-in-parallel-871f7a6678c4
+
+* Python Comment Block – How to Comment Out Code in Python - https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/
+
+* Right and Left Hand Detection Using Python - GeeksforGeeks - https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
+
 
 
 #### ONE-LINERS
@@ -301,6 +327,8 @@
 
 * Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061680/Multi-Attribute.and.Graph-based.Object.Detection.pdf)
 
+* Number Plate Detection with OpenCV and Python | Don't Repeat Yourself - https://dontrepeatyourself.org/post/number-plate-detection-with-opencv-and-python/
+
 
 
 #### MACHINE LEARNING etc
@@ -349,6 +377,9 @@
 
 * Top 5 Python Projects for Beginners to Look Out for in 2022 - https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
 
+* Top 10 Easy Python Projects that Beginners Should Try in 2022 - https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/
+
+* Python Project Ideas to Improve Your Résumé - https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/
 
 
 
@@ -403,6 +434,10 @@
 * Top Ten Technologies That Will Outperform AI/ML in 2022 - https://www.analyticsinsight.net/top-ten-technologies-that-will-outperform-ai-ml-in-2022/
 
 * The 6 Best Visual Studio Code Themes to Start Into 2022 | by Marvin Wendt | Dec, 2021 | Better Programming - https://betterprogramming.pub/the-6-best-visual-studio-code-themes-to-start-into-2022-1b1c7b8b60dc
+
+* Best Programming Languages For Games - https://careerkarma.com/blog/best-programming-languages-for-games/
+
+* What is Debugging? How to Debug Your Code for Beginners - https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/
 
 
 
