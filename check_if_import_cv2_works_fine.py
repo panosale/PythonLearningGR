@@ -15,7 +15,7 @@ class FPS: # To measure the number of frame per second
                 self.stop=time.time()
                 self.fps=10/(self.stop-self.start)
                 self.start=self.stop
-            else :
+            else:
                 self.start=time.time()    
         self.nbf+=1
     
