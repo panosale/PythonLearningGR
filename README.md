@@ -54,7 +54,8 @@
 
 * Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
 
-
+* Learn Python by Thinking in Types - https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/ or [HERE](https://github.com/panosale/PythonLearningGR/files/9731209/Learn.Python.by.Thinking.in.Types.pdf)
+ - https://www.youtube.com/watch?v=jH85McHenvw&t=2s
 
 ### ΒΙΒΛΙΑ
 
