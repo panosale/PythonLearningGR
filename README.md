@@ -115,6 +115,8 @@
 
 * Python String zfill() - ItsMyCode - https://itsmycode.com/python-string-zfill/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061606/Python.String.zfill.pdf)
 
+* How to Remove a Specific Character from a String in Python - https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10205214/How.to.Remove.a.Specific.Character.from.a.String.in.Python.pdf)
+
 
 
 #### FILES
