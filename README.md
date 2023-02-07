@@ -279,6 +279,10 @@
 
 * Right and Left Hand Detection Using Python - GeeksforGeeks - https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
 
+* How to Write Unit Tests for Instance Methods in Python - https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678190/How.to.Write.Unit.Tests.for.Instance.Methods.in.Python.pdf)
+
+
+
 
 
 #### ONE-LINERS
