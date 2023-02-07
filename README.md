@@ -281,6 +281,10 @@
 
 * How to Write Unit Tests for Instance Methods in Python - https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678190/How.to.Write.Unit.Tests.for.Instance.Methods.in.Python.pdf)
 
+* Top Algorithms for Competitive Programming Every Programmer Must Know in 2022 - https://www.analyticsinsight.net/top-algorithms-for-competitive-programming-every-programmer-must-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678257/Top.Algorithms.for.Competitive.Programming.Every.Programmer.Must.Know.in.2022.pdf)
+
+ 
+
 
 
 
