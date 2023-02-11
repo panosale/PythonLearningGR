@@ -92,6 +92,13 @@
 * How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
 
 
+#### IF ... THEN ... ELSE
+
+* Python Operator – Logical Operators in Python - https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713307/Python.Operator.-.Logical.Operators.in.Python.pdf)
+
+* Else-If in Python – Python If Statement Example Syntax - https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713314/Else-If.in.Python.-.Python.If.Statement.Example.Syntax.pdf)
+
+
 
 #### STRINGS
 
@@ -130,6 +137,11 @@
 
 
 
+#### FUNCTIONS
+
+* Python Functions – How to Define and Call a Function - https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713320/Python.Functions.-.How.to.Define.and.Call.a.Function.pdf)
+
+
 
 #### LAMBDA FUNCTIONS
 
@@ -153,6 +165,7 @@
 
 * Python List insert() – How to Add to a List in Python - https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697501/Python.List.insert.-.How.to.Add.to.a.List.in.Python.pdf)
 
+* Python for Beginners: When and How to Use Tuples – The New Stack - https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713321/Python.for.Beginners-.When.and.How.to.Use.Tuples.pdf)
 
 
 
@@ -288,9 +301,8 @@
 
  * Python Sleep – time.sleep() in Python - https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713159/Python.Sleep.-.time.sleep.in.Python.pdf)
 
-* 
-
-
+* Python Attributes – Class and Instance Attribute Examples - https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713326/Python.Attributes.-.Class.and.Instance.Attribute.Examples.pdf)
+ 
 
 
 #### ONE-LINERS
@@ -463,6 +475,8 @@
 * Best Programming Languages For Games - https://careerkarma.com/blog/best-programming-languages-for-games/
 
 * What is Debugging? How to Debug Your Code for Beginners - https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/
+
+* Rubber Duck Debugging - https://www.freecodecamp.org/news/rubber-duck-debugging/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713333/Rubber.Duck.Debugging.pdf)
 
 
 
