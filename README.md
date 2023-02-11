@@ -81,6 +81,9 @@
 
 ### ΑΡΘΡΑ
 
+#### TYPES
+
+
 #### LOOPS
 
 * Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789 or [HERE](https://github.com/panosale/PythonLearningGR/files/8040747/Understand.Loops.in.Python.with.One.Article.pdf)
