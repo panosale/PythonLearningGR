@@ -117,6 +117,9 @@
 
 * How to Remove a Specific Character from a String in Python - https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10205214/How.to.Remove.a.Specific.Character.from.a.String.in.Python.pdf)
 
+* Python Compare Strings – How to Check for String Equality - https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/ or 
+[HERE](https://github.com/panosale/PythonLearningGR/files/10713166/Python.Compare.Strings.-.How.to.Check.for.String.Equality.pdf)
+
 
 
 #### FILES
@@ -283,8 +286,9 @@
 
 * Top Algorithms for Competitive Programming Every Programmer Must Know in 2022 - https://www.analyticsinsight.net/top-algorithms-for-competitive-programming-every-programmer-must-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678257/Top.Algorithms.for.Competitive.Programming.Every.Programmer.Must.Know.in.2022.pdf)
 
- 
+ * Python Sleep – time.sleep() in Python - https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713159/Python.Sleep.-.time.sleep.in.Python.pdf)
 
+* 
 
 
 
@@ -398,6 +402,9 @@
 * Top 10 Easy Python Projects that Beginners Should Try in 2022 - https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/
 
 * Python Project Ideas to Improve Your Résumé - https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/
+
+* Top 10 Easy Python Projects that Beginners Should Try in 2022 - https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713161/Top.10.Easy.Python.Projects.that.Beginners.Should.Try.in.2022.pdf)
+
 
 
 
