@@ -484,6 +484,8 @@
 
 * Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
 
+* How to Learn the C++ Programming Language - https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713457/How.to.Learn.the.C%2B%2B.Programming.Language.pdf)
+
 * Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog - https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
 
 
