@@ -422,7 +422,6 @@
 
 
 
-
 ### ΓΕΝΙΚΑ ΑΡΘΡΑ
 
 * So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
@@ -439,15 +438,11 @@
 
 * What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
 
-* The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
-
 * Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
 
 * Functional vs object-oriented programming | CircleCI - https://circleci.com/blog/functional-vs-object-oriented-programming/
 
 * Object-oriented Programming vs. Functional Programming: Which Is Better? | Hacker Noon - https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better
-
-* C++ Programming: Arena Allocation - DEV Community - https://dev.to/aboss123/advanced-c-arena-allocation-3580
 
 * 10 Different Programming Languages to Use in Robotic Projects - https://www.analyticsinsight.net/10-different-programming-languages-to-use-in-robotic-projects/
 
@@ -456,8 +451,6 @@
 * TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python | by Dario Radečić | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
 
 * C vs. Python: The Key Differences - https://www.makeuseof.com/c-python-core-differences/
-
-* Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
 
 * JSON for Beginners – JavaScript Object Notation Explained in Plain English - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
 
@@ -469,8 +462,6 @@
 
 * Why deep-learning methods confidently recognize images that are nonsense - https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html
 
-* Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog - https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
-
 * Top Ten Technologies That Will Outperform AI/ML in 2022 - https://www.analyticsinsight.net/top-ten-technologies-that-will-outperform-ai-ml-in-2022/
 
 * The 6 Best Visual Studio Code Themes to Start Into 2022 | by Marvin Wendt | Dec, 2021 | Better Programming - https://betterprogramming.pub/the-6-best-visual-studio-code-themes-to-start-into-2022-1b1c7b8b60dc
@@ -480,6 +471,20 @@
 * What is Debugging? How to Debug Your Code for Beginners - https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/
 
 * Rubber Duck Debugging - https://www.freecodecamp.org/news/rubber-duck-debugging/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713333/Rubber.Duck.Debugging.pdf)
+
+
+
+#### ΑΛΛΕΣ ΓΛΩΣΣΕΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΥ
+
+##### C/C++
+
+* The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
+
+* C++ Programming: Arena Allocation - DEV Community - https://dev.to/aboss123/advanced-c-arena-allocation-3580
+
+* Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
+
+* Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog - https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
 
 
 
