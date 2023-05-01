@@ -56,6 +56,8 @@
 
 * Learn Python by Thinking in Types - https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/ or [HERE](https://github.com/panosale/PythonLearningGR/files/9731209/Learn.Python.by.Thinking.in.Types.pdf) - https://www.youtube.com/watch?v=jH85McHenvw&t=2s
 
+* Harvard CS50’s Introduction to Programming with Python – Full University Course - https://www.youtube.com/watch?v=nLRL_NcnK-4
+
 ### ΒΙΒΛΙΑ
 
 * https://www.ebooks4greeks.gr/category/free-ebooks/%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%B7%CF%83/%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B5%CF%83-%CF%80%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%85/%CE%B2%CE%B9%CE%B2%CE%BB%CE%B9%CE%B1-python
