@@ -174,6 +174,12 @@
 
 
 
+#### ERROR HANDLING
+
+* How to Handle Errors in Python – the try, except, else, and finally Keywords Explained: https://www.freecodecamp.org/news/how-to-handle-errors-in-python/ or [HERE]()
+
+
+
 #### ΔΙΑΦΟΡΑ
 
 * When and Why to Use := Over = in Python: https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453 or [HERE](https://github.com/panosale/PythonLearningGR/files/7175375/When.and.Why.to.Use.-.Over.in.Python.-.by.Andre.Ye.-.Towards.Data.Science.pdf)
