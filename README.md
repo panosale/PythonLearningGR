@@ -176,7 +176,7 @@
 
 #### ERROR HANDLING
 
-* How to Handle Errors in Python – the try, except, else, and finally Keywords Explained: https://www.freecodecamp.org/news/how-to-handle-errors-in-python/ or 
+* How to Handle Errors in Python – the try, except, else, and finally Keywords Explained: https://www.freecodecamp.org/news/how-to-handle-errors-in-python/
 
 
 
