@@ -315,6 +315,8 @@
  * Python Sleep – time.sleep() in Python - https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713159/Python.Sleep.-.time.sleep.in.Python.pdf)
 
 * Python Attributes – Class and Instance Attribute Examples - https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713326/Python.Attributes.-.Class.and.Instance.Attribute.Examples.pdf)
+
+* How to List Installed Python Packages - https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/
  
 
 
