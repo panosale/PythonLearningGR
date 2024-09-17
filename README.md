@@ -541,7 +541,9 @@
 * Από Command Prompt:
 
       pip list -> Εμφανίζει λίστα όλων των εγκατεστημένων πακέτων στην Python.
-        
+  
+      Παρόμοιο αποτέλεσμα έχει και η: help("modules") με εκτέλεση μέσα από την python.
+  
       python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
       
       
