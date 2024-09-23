@@ -46,7 +46,7 @@
 
 * Here's how you can master Python, one of the most popular coding languages | ZDNet: https://www.zdnet.com/article/heres-how-you-can-master-python-one-of-the-most-popular-coding-languages/
 
-* Learn to Code Python Free With These Courses and Apps - https://www.makeuseof.com/learn-to-code-python/
+* Learn to Code Python Free With These Courses and Apps: https://www.makeuseof.com/learn-to-code-python/
 
 * GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
 
@@ -90,18 +90,18 @@
 
 * Understand Loops in Python with One Article: https://towardsdatascience.com/understand-loops-in-python-with-one-article-bace2ddba789 or [HERE](https://github.com/panosale/PythonLearningGR/files/8040747/Understand.Loops.in.Python.with.One.Article.pdf)
 
-* Python Do While – Loop Example - https://www.freecodecamp.org/news/python-do-while-loop-example/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040690/Python.Do.While.-.Loop.Example.pdf)
+* Python Do While – Loop Example: https://www.freecodecamp.org/news/python-do-while-loop-example/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040690/Python.Do.While.-.Loop.Example.pdf)
 
-* Python For Loop – Example and Tutorial - https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
+* Python For Loop – Example and Tutorial: https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
 
-* How to Use Built-in Looping Functions in Python - https://www.freecodecamp.org/news/python-looping-functions/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
+* How to Use Built-in Looping Functions in Python: https://www.freecodecamp.org/news/python-looping-functions/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
 
 
 #### IF ... THEN ... ELSE
 
-* Python Operator – Logical Operators in Python - https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713307/Python.Operator.-.Logical.Operators.in.Python.pdf)
+* Python Operator – Logical Operators in Python: https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713307/Python.Operator.-.Logical.Operators.in.Python.pdf)
 
-* Else-If in Python – Python If Statement Example Syntax - https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713314/Else-If.in.Python.-.Python.If.Statement.Example.Syntax.pdf)
+* Else-If in Python – Python If Statement Example Syntax: https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713314/Else-If.in.Python.-.Python.If.Statement.Example.Syntax.pdf)
 
 
 
@@ -109,27 +109,27 @@
 
 * Python Strings Masterclass 101 | Introduction to Strings: https://www.analyticsvidhya.com/blog/2021/05/python-strings-masterclass-101-introduction-to-strings-in-python-for-absolute-beginners/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6764822/Python.Strings.Masterclass.101.-.Introduction.to.Strings.pdf)
 
-* Python String Methods Tutorial – How to Use find() and replace() on Python Strings - https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061365/Python.String.Methods.Tutorial.-.How.to.Use.find.and.replace.on.Python.Strings.pdf)
+* Python String Methods Tutorial – How to Use find() and replace() on Python Strings: https://www.freecodecamp.org/news/python-string-methods-tutorial-how-to-use-find-and-replace-on-python-strings/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061365/Python.String.Methods.Tutorial.-.How.to.Use.find.and.replace.on.Python.Strings.pdf)
 
-* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b or [HERE](https://github.com/panosale/PythonLearningGR/files/8061394/15.Must-Know.Python.String.Methods.pdf)
+* 15 Must-Know Python String Methods | by Soner Yıldırım | Sep, 2021 | Towards Data Science: https://towardsdatascience.com/15-must-know-python-string-methods-64a4f554941b or [HERE](https://github.com/panosale/PythonLearningGR/files/8061394/15.Must-Know.Python.String.Methods.pdf)
 
-* How to Format a String in Python - https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
+* How to Format a String in Python: https://www.freecodecamp.org/news/how-to-format-a-string-in-python/ ([useful cheat sheet](https://github.com/panosale/PythonLearningGR/files/7019529/Level.1.Python.Reference.Sheet.pdf), [examples](https://github.com/panosale/PythonLearningGR/files/7032479/How.to.Format.a.String.in.Python.zip)) or [HERE](https://github.com/panosale/PythonLearningGR/files/7019269/How.to.Format.a.String.in.Python.pdf)
 
-* Python String split() and join() Methods – Explained with Examples - https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061436/Python.String.split.and.join.Methods.-.Explained.with.Examples.pdf)
+* Python String split() and join() Methods – Explained with Examples: https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061436/Python.String.split.and.join.Methods.-.Explained.with.Examples.pdf)
 
-* Python Reverse String – String Reversal in Python Explained with Examples - https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061490/Python.Reverse.String.-.String.Reversal.in.Python.Explained.with.Examples.pdf)
+* Python Reverse String – String Reversal in Python Explained with Examples: https://www.freecodecamp.org/news/python-reverse-string-string-reversal-in-python-explained-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061490/Python.Reverse.String.-.String.Reversal.in.Python.Explained.with.Examples.pdf)
 
-* Python Print Variable – How to Print a String and Variable - https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061521/Python.Print.Variable.-.How.to.Print.a.String.and.Variable.pdf)
+* Python Print Variable – How to Print a String and Variable: https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061521/Python.Print.Variable.-.How.to.Print.a.String.and.Variable.pdf)
 
-* Python strip() – How to Trim a String or Line - https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061556/Python.strip.-.How.to.Trim.a.String.or.Line.pdf)
+* Python strip() – How to Trim a String or Line: https://www.freecodecamp.org/news/python-strip-how-to-trim-a-string-or-line/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061556/Python.strip.-.How.to.Trim.a.String.or.Line.pdf)
 
-* Python String.Replace() – Function in Python for Substring Substitution - https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061596/Python.String.Replace.-.Function.in.Python.for.Substring.Substitution.pdf)
+* Python String.Replace() – Function in Python for Substring Substitution: https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061596/Python.String.Replace.-.Function.in.Python.for.Substring.Substitution.pdf)
 
-* Python String zfill() - ItsMyCode - https://itsmycode.com/python-string-zfill/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061606/Python.String.zfill.pdf)
+* Python String zfill() - ItsMyCode: https://itsmycode.com/python-string-zfill/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061606/Python.String.zfill.pdf)
 
-* How to Remove a Specific Character from a String in Python - https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10205214/How.to.Remove.a.Specific.Character.from.a.String.in.Python.pdf)
+* How to Remove a Specific Character from a String in Python: https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10205214/How.to.Remove.a.Specific.Character.from.a.String.in.Python.pdf)
 
-* Python Compare Strings – How to Check for String Equality - https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/ or 
+* Python Compare Strings – How to Check for String Equality: https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/ or 
 [HERE](https://github.com/panosale/PythonLearningGR/files/10713166/Python.Compare.Strings.-.How.to.Check.for.String.Equality.pdf)
 
 
@@ -138,13 +138,17 @@
 
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
-* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10260699/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
+* Python Parse JSON – How to Read a JSON File: https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10260699/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
+
+* How to Read a File Line by Line in Python: https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/
+
+* An Introduction to the With Statement in Python: https://builtin.com/software-engineering-perspectives/what-is-with-statement-python
 
 
 
 #### FUNCTIONS
 
-* Python Functions – How to Define and Call a Function - https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713320/Python.Functions.-.How.to.Define.and.Call.a.Function.pdf)
+* Python Functions – How to Define and Call a Function: https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713320/Python.Functions.-.How.to.Define.and.Call.a.Function.pdf)
 
 
 
@@ -152,25 +156,25 @@
 
 * Lambda Functions in Python: A Beginner's Guide! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/06/anonymous-or-lambda-functions-in-python-a-beginners-guide/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770315/Lambda.Functions.in.Python-.A.Beginner.s.Guide.-.Analytics.Vidhya.pdf)
 
-* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
+* Lambda Functions with Practical Examples in Python | by Susan Maina | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8 or [HERE](https://github.com/panosale/PythonLearningGR/files/6740915/Lambda.Functions.with.Practical.Examples.in.Python.-.by.Susan.Maina.-.Jun.2021.-.Towards.Data.Science.pdf)
 
-* Lambda Function in Python – Example Syntax - https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
+* Lambda Function in Python – Example Syntax: https://www.freecodecamp.org/news/lambda-function-in-python-example-syntax/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337543/Lambda.Function.in.Python.Example.Syntax.pdf)
 
-* Python for Beginners: How to Read Text from a File – The New Stack - https://thenewstack.io/python-for-beginners-how-to-read-text-from-a-file/
+* Python for Beginners: How to Read Text from a File – The New Stack: https://thenewstack.io/python-for-beginners-how-to-read-text-from-a-file/
 
 
 
 #### LISTS & TUPLES
 
-* Python NamedTuple Examples – How to Create and Work with NamedTuples - https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697438/Python.NamedTuple.Examples.How.to.Create.and.Work.with.NamedTuples.pdf)
+* Python NamedTuple Examples – How to Create and Work with NamedTuples: https://www.freecodecamp.org/news/python-namedtuple-examples-how-to-create-and-work-with-namedtuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697438/Python.NamedTuple.Examples.How.to.Create.and.Work.with.NamedTuples.pdf)
 
-* How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593 or [HERE](https://github.com/panosale/PythonLearningGR/files/8697481/How.Not.to.Use.Python.Lists.pdf)
+* How Not to Use Python Lists. Understanding Mutable Objects in… | by Artemis Nika | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/how-not-to-use-python-lists-d06cbe8e593 or [HERE](https://github.com/panosale/PythonLearningGR/files/8697481/How.Not.to.Use.Python.Lists.pdf)
 
-* List Comprehension in Python - https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697508/List.Comprehension.in.Python.pdf)
+* List Comprehension in Python: https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697508/List.Comprehension.in.Python.pdf)
 
-* Python List insert() – How to Add to a List in Python - https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697501/Python.List.insert.-.How.to.Add.to.a.List.in.Python.pdf)
+* Python List insert() – How to Add to a List in Python: https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697501/Python.List.insert.-.How.to.Add.to.a.List.in.Python.pdf)
 
-* Python for Beginners: When and How to Use Tuples – The New Stack - https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713321/Python.for.Beginners-.When.and.How.to.Use.Tuples.pdf)
+* Python for Beginners: When and How to Use Tuples – The New Stack: https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713321/Python.for.Beginners-.When.and.How.to.Use.Tuples.pdf)
 
 
 
