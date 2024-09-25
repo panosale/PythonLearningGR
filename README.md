@@ -48,7 +48,7 @@
 
 * Learn to Code Python Free With These Courses and Apps: https://www.makeuseof.com/learn-to-code-python/
 
-* GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn... - https://github.com/MatthewTamYT/LearnPython
+* GitHub - MatthewTamYT/LearnPython: Everything you need to know about learning Python is here. This is a catalog that teaches you how to code in Python. In fact, everything you need to know from beginner to intermediate is here. Even experts could learn...: https://github.com/MatthewTamYT/LearnPython
 
 ### VIDEOS
 
