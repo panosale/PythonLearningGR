@@ -232,7 +232,7 @@
 
 * Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks: https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
 
-* Getting Started With Python on Hardware - Make: - https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
+* Getting Started With Python on Hardware - Make: https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
 
 * Python Try and Except Statements – How to Handle Exceptions in Python: https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
 
