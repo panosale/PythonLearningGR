@@ -20,13 +20,13 @@
 
 #### PYTHON INSTALLATION
 
-* How To Install Python on Windows 10 and 11 | Tom's Hardware - https://www.tomshardware.com/how-to/install-python-on-windows-10-and-11 or [HERE](https://github.com/panosale/PythonLearningGR/files/9682013/How.To.Install.Python.on.Windows.10.and.11.pdf)
+* How To Install Python on Windows 10 and 11 | Tom's Hardware: https://www.tomshardware.com/how-to/install-python-on-windows-10-and-11 or [HERE](https://github.com/panosale/PythonLearningGR/files/9682013/How.To.Install.Python.on.Windows.10.and.11.pdf)
 
 #### ABOUT GITHUB
 
-* Git and GitHub - The Complete Guides - https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
+* Git and GitHub - The Complete Guides: https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp
 
-* How to Write Better Git Commit Messages – A Step-By-Step Guide - https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+* How to Write Better Git Commit Messages – A Step-By-Step Guide: https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
 
 
 
@@ -278,7 +278,7 @@
 
 * Top 10 Python Tools Programmers Should Know In 2022: https://www.analyticsinsight.net/top-10-python-tools-programmers-should-know-in-2022/
 
-* Why are More Developers Using Python for Their Machine Learning Projects?: KDnuggets - https://www.kdnuggets.com/2022/01/developers-python-machine-learning-projects.html
+* Why are More Developers Using Python for Their Machine Learning Projects? - KDnuggets: https://www.kdnuggets.com/2022/01/developers-python-machine-learning-projects.html
 
 * Interning in CPython - Blog | luminousmen: https://luminousmen.com/post/interning-in-cpython
 
