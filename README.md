@@ -136,6 +136,8 @@
 
 #### FILES
 
+* File Handling in Python – How to Create, Read, and Write to a File: https://www.freecodecamp.org/news/file-handling-in-python/
+
 * 3 Python Tricks to Read, Create, and Run Multiple Files Automatically: https://towardsdatascience.com/3-python-tricks-to-read-create-and-run-multiple-files-automatically-5221ebaad2ba or [HERE](https://github.com/panosale/PythonLearningGR/files/7175469/3.Python.Tricks.to.Read.Create.and.Run.Multiple.Models.Automatically.-.by.Khuyen.Tran.-.Towards.Data.Science.pdf)
 
 * Python Parse JSON – How to Read a JSON File: https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10260699/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
