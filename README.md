@@ -144,6 +144,8 @@
 
 * An Introduction to the With Statement in Python: https://builtin.com/software-engineering-perspectives/what-is-with-statement-python
 
+* How to Check if a File Exists in Python with isFile() and exists(): https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/
+
 
 
 #### FUNCTIONS
