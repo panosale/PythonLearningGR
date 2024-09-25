@@ -52,11 +52,11 @@
 
 ### VIDEOS
 
-* Python for Everybody - Full University Python Course - https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
+* Python for Everybody - Full University Python Course: https://www.youtube.com/watch?v=8DvywoWv6fI book [HERE](https://github.com/panosale/PythonLearningGR/files/7365769/pythonlearn.pdf)
 
-* Learn Python by Thinking in Types - https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/ or [HERE](https://github.com/panosale/PythonLearningGR/files/9731209/Learn.Python.by.Thinking.in.Types.pdf) - https://www.youtube.com/watch?v=jH85McHenvw&t=2s
+* Learn Python by Thinking in Types: https://www.freecodecamp.org/news/learn-python-by-thinking-in-types/ or [HERE](https://github.com/panosale/PythonLearningGR/files/9731209/Learn.Python.by.Thinking.in.Types.pdf) - https://www.youtube.com/watch?v=jH85McHenvw&t=2s
 
-* Harvard CS50’s Introduction to Programming with Python – Full University Course - https://www.youtube.com/watch?v=nLRL_NcnK-4
+* Harvard CS50’s Introduction to Programming with Python – Full University Course: https://www.youtube.com/watch?v=nLRL_NcnK-4
 
 ### ΒΙΒΛΙΑ
 
@@ -332,11 +332,11 @@
 
 #### ONE-LINERS
 
-* 18 Python one-liners that will speed up your coding process. - DEV Community - https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md
+* 18 Python one-liners that will speed up your coding process. - DEV Community: https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md
 
-* 11 Useful Python One-Liners You Must Know - https://www.makeuseof.com/useful-python-one-liners-you-must-know/
+* 11 Useful Python One-Liners You Must Know: https://www.makeuseof.com/useful-python-one-liners-you-must-know/
 
-* Python If-Else Statement in One Line - Ternary Operator Explained | Better Data Science - https://betterdatascience.com/python-if-else-one-line/
+* Python If-Else Statement in One Line - Ternary Operator Explained | Better Data Science: https://betterdatascience.com/python-if-else-one-line/
 
 
 
@@ -346,29 +346,29 @@
 
 * 3 Tools to Track and Visualize the Execution of your Python Code | by Khuyen Tran | Apr, 2021 | Towards Data Science: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
 
-* Measuring memory usage in Python: it’s tricky! - https://pythonspeed.com/articles/measuring-memory-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
+* Measuring memory usage in Python: it’s tricky!: https://pythonspeed.com/articles/measuring-memory-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6741071/Measuring.memory.usage.in.Python-.it.s.tricky.pdf)
 
-* Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science - https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
+* Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d or [HERE](https://github.com/panosale/PythonLearningGR/files/6740913/Do.Not.Use.Print.For.Debugging.In.Python.Anymore.-.by.Christopher.Tao.-.Jun.2021.-.Towards.Data.Science.pdf)
 
 * Python Memory Management | What is Python Memory Management: https://www.analyticsvidhya.com/blog/2021/04/an-overview-of-python-memory-management/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6770464/Python.Memory.Management.-.What.is.Python.Memory.Management.pdf)
 
-* 3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
+* 3 Chaotic Python Features To Avoid | by Yong Cui | Jul, 2021 | Better Programming: https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
 * Python Code Performance Measurement – Measure the right metric to optimize better!: https://www.analyticsvidhya.com/blog/2021/01/python-code-performance-measurement-measure-the-right-metric-to-optimize-better/
 
-* Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium - https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
+* Make Your Python Program Bug-Free: 8 Essential Tips | by Yang Zhou | TechToFreedom | Aug, 2021 | Medium: https://medium.com/techtofreedom/make-your-python-program-bug-free-8-essential-tips-1700bceb5b8
 
-* How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
+* How to Track the Progress of Parallel Tasks In Python with TQDM | by Ahmed Besbes | Sep, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-track-the-progress-of-parallel-tasks-in-python-with-tqdm-6d93339f03fe
 
-* 3 Tools to Track and Visualize the Execution of Your Python Code - KDnuggets - https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
+* 3 Tools to Track and Visualize the Execution of Your Python Code - KDnuggets: https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
 
-* So Much More Python for Beginners: Functions – The New Stack - https://thenewstack.io/so-much-more-python-for-beginners-functions/
+* So Much More Python for Beginners: Functions – The New Stack: https://thenewstack.io/so-much-more-python-for-beginners-functions/
 
-* Python in Visual Studio Code – February 2022 Release - Python - https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2022-release/
+* Python in Visual Studio Code – February 2022 Release - Python: https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2022-release/
 
-* Faster Python made easier with Cython’s pure Python mode | InfoWorld - https://www.infoworld.com/article/3648539/faster-python-made-easier-with-cythons-pure-python-mode.html
+* Faster Python made easier with Cython’s pure Python mode | InfoWorld: https://www.infoworld.com/article/3648539/faster-python-made-easier-with-cythons-pure-python-mode.html
 
-* The fastest way to read a CSV in Pandas - https://pythonspeed.com/articles/pandas-read-csv-fast/
+* The fastest way to read a CSV in Pandas: https://pythonspeed.com/articles/pandas-read-csv-fast/
 
 
 
@@ -376,17 +376,17 @@
 
 * Open Source Computer Vision - https://docs.opencv.org/master/index.html
 
-* An Introduction to Computer Vision With OpenCV - https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
+* An Introduction to Computer Vision With OpenCV: https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-computer-vision-with-opencv/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6954430/An.Introduction.to.Computer.Vision.With.OpenCV.-.Analytics.Vidhya.pdf)
 
-* Computer Vision With OpenCV And Python | What is OpenCV for CV? - https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
+* Computer Vision With OpenCV And Python | What is OpenCV for CV?: https://www.analyticsvidhya.com/blog/2021/07/performing-computer-vision-task-with-opencv-and-python/ or localy [HERE](https://github.com/panosale/PythonLearningGR/files/6945916/Computer.Vision.With.OpenCV.And.Python.-.What.is.OpenCV.for.CV-.pdf)
 
-* Some Advanced OpenCV Operations For Your Computer vision Project! - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
+* Some Advanced OpenCV Operations For Your Computer vision Project!: https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-operations-for-your-computer-vision-project/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982249/Some.Advanced.OpenCV.Operations.For.Your.Computer.vision.Project.pdf)
 
-* Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued - https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
+* Some Advanced OpenCV Functions For Your Computer Vision Projects-Continued: https://www.analyticsvidhya.com/blog/2021/07/some-advanced-opencv-functions-for-your-computer-vision-projects/ or [HERE](https://github.com/panosale/PythonLearningGR/files/6982248/Some.Advanced.OpenCV.Functions.For.Your.Computer.Vision.Projects.-.Continued.pdf)
 
-* Multi-Attribute and Graph-based Object Detection–LearnOpenCV - https://learnopencv.com/multi-attribute-and-graph-based-object-detection/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061680/Multi-Attribute.and.Graph-based.Object.Detection.pdf)
+* Multi-Attribute and Graph-based Object Detection–LearnOpenCV: https://learnopencv.com/multi-attribute-and-graph-based-object-detection/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061680/Multi-Attribute.and.Graph-based.Object.Detection.pdf)
 
-* Number Plate Detection with OpenCV and Python | Don't Repeat Yourself - https://dontrepeatyourself.org/post/number-plate-detection-with-opencv-and-python/
+* Number Plate Detection with OpenCV and Python | Don't Repeat Yourself: https://dontrepeatyourself.org/post/number-plate-detection-with-opencv-and-python/
 
 
 
@@ -394,17 +394,17 @@
 
 * Programming language Python is a big hit for machine learning. But now it needs to change: https://www.zdnet.com/google-amp/article/programming-language-python-is-a-big-hit-for-machine-learning-but-now-it-needs-to-change/ or [ΗΕΡΕ](https://github.com/panosale/PythonLearningGR/files/8698626/Programming.language.Python.is.a.big.hit.for.machine.learning.But.now.it.needs.to.change.pdf)
 
-* Top 7 Python NLP Libraries and Their Applications in 2021 - https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698684/Top.7.Python.NLP.Libraries.and.Their.Applications.in.2021.pdf)
+* Top 7 Python NLP Libraries and Their Applications in 2021: https://www.analyticsinsight.net/top-7-python-nlp-libraries-and-their-applications-in-2021/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698684/Top.7.Python.NLP.Libraries.and.Their.Applications.in.2021.pdf)
 
-* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python) - https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
+* Tree Based Algorithms: A Complete Tutorial from Scratch (in R & Python): https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#one or [HERE](https://github.com/panosale/PythonLearningGR/files/7740088/tree-based-algorithms-complete-tutorial-scratch-in-python.pdf)
 
-* Why Is Python Popular for Data Science? - https://www.makeuseof.com/why-is-python-popular-for-data-science/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698727/Why.Is.Python.Popular.for.Data.Science.pdf)
+* Why Is Python Popular for Data Science?: https://www.makeuseof.com/why-is-python-popular-for-data-science/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698727/Why.Is.Python.Popular.for.Data.Science.pdf)
 
-* NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698783/NLP.Tutorials.Part.-I.from.Basics.to.Advance.pdf)
+* NLP Tutorials Part -I from Basics to Advance - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698783/NLP.Tutorials.Part.-I.from.Basics.to.Advance.pdf)
 
-* Top 10 Python Libraries Data Scientists Should Know in 2022 - https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698794/Top.10.Python.Libraries.Data.Scientists.Should.Know.in.2022.pdf)
+* Top 10 Python Libraries Data Scientists Should Know in 2022: https://www.analyticsinsight.net/top-10-python-libraries-data-scientists-should-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698794/Top.10.Python.Libraries.Data.Scientists.Should.Know.in.2022.pdf)
 
-* Machine Learning (ML) - Complete Guide - https://www.jcchouinard.com/machine-learning/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698813/Machine.Learning.ML.-.Complete.Guide.pdf)
+* Machine Learning (ML) - Complete Guide: https://www.jcchouinard.com/machine-learning/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8698813/Machine.Learning.ML.-.Complete.Guide.pdf)
 
 
 
@@ -416,31 +416,31 @@
 
 * 3 Useful Projects to learn Python Classes: https://towardsdatascience.com/3-useful-projects-to-learn-python-classes-cf0076c36297
 
-* 3 Interesting Python Projects With Code for Beginners! - Analytics Vidhya - https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners/
+* 3 Interesting Python Projects With Code for Beginners! - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2021/07/3-interesting-python-projects-with-code-for-beginners/
 
 * 6 Python Projects You Can Finish in a Weekend | by Frank Andrade | Jun, 2021 | Towards Data Science: https://towardsdatascience.com/6-python-projects-you-can-finish-in-a-weekend-f53552279cc
 
-* 5 Python projects for absolute beginners to learn programming | TechGig - https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
+* 5 Python projects for absolute beginners to learn programming | TechGig: https://content.techgig.com/5-python-projects-for-absolute-beginners-to-learn-programming/articleshow/84584452.cms
 
-* What is Pseudocode? How to Use Pseudocode to Solve Coding Problems - https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/
+* What is Pseudocode? How to Use Pseudocode to Solve Coding Problems: https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/
 
-* 12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming - https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
+* 12 Unique Python Project Ideas for Your Resume | by Abhay Parashar | Jul, 2021 | Better Programming: https://betterprogramming.pub/3-chaotic-python-features-to-avoid-9c609908bc13
 
-* 25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python - https://www.freecodecamp.org/news/python-projects-for-beginners/
+* 25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python: https://www.freecodecamp.org/news/python-projects-for-beginners/
 
-* Know Top Python Projects Every Developer Should Try in 2021 - https://www.analyticsinsight.net/know-top-python-projects-every-developer-should-try-in-2021/
+* Know Top Python Projects Every Developer Should Try in 2021: https://www.analyticsinsight.net/know-top-python-projects-every-developer-should-try-in-2021/
 
-* 3 Python Projects That Will Help Automate Your Life | by Frank Andrade | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/3-python-projects-that-will-help-automate-your-life-b6d48a4c1fa2
+* 3 Python Projects That Will Help Automate Your Life | by Frank Andrade | Nov, 2021 | Towards Data Science: https://towardsdatascience.com/3-python-projects-that-will-help-automate-your-life-b6d48a4c1fa2
 
-* Python Project – How to Build Tony Stark's JARVIS with Python - https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+* Python Project – How to Build Tony Stark's JARVIS with Python: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
 
-* Top 5 Python Projects for Beginners to Look Out for in 2022 - https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
+* Top 5 Python Projects for Beginners to Look Out for in 2022: https://www.analyticsinsight.net/top-5-python-projects-for-beginners-to-look-out-for-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061240/Top.5.Python.Projects.for.Beginners.to.Look.Out.for.in.2022.pdf)
 
-* Top 10 Easy Python Projects that Beginners Should Try in 2022 - https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/
+* Top 10 Easy Python Projects that Beginners Should Try in 2022: https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/
 
-* Python Project Ideas to Improve Your Résumé - https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/
+* Python Project Ideas to Improve Your Résumé: https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/
 
-* Top 10 Easy Python Projects that Beginners Should Try in 2022 - https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713161/Top.10.Easy.Python.Projects.that.Beginners.Should.Try.in.2022.pdf)
+* Top 10 Easy Python Projects that Beginners Should Try in 2022: https://www.analyticsinsight.net/top-10-easy-python-projects-that-beginners-should-try-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713161/Top.10.Easy.Python.Projects.that.Beginners.Should.Try.in.2022.pdf)
 
 
 
@@ -448,51 +448,51 @@
 
 * So you wanna Data Science?. A guide for newbies interesting in…: https://towardsdatascience.com/so-you-wanna-data-science-eb9bd4b048b8
 
-* Programming VS Coding VS Development – What's the Difference? - https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/
+* Programming VS Coding VS Development – What's the Difference?: https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/
 
-* 5 Preferred programming languages for game development | TechGig - https://content.techgig.com/5-preferred-programming-languages-for-game-development/articleshow/84677550.cms
+* 5 Preferred programming languages for game development | TechGig: https://content.techgig.com/5-preferred-programming-languages-for-game-development/articleshow/84677550.cms
 
-* Top 8 Programming Languages For Game Developers - https://analyticsindiamag.com/top-8-programming-languages-for-game-developers/
+* Top 8 Programming Languages For Game Developers: https://analyticsindiamag.com/top-8-programming-languages-for-game-developers/
 
-* Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning - https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/
+* Programming, Math, and Statistics You Need to Know for Data Science and Machine Learning: https://www.freecodecamp.org/news/first-steps-to-learn-data-science-or-ml-after-the-roadmap/
 
-* What's The Difference Between AI And Computer vision? - https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
+* What's The Difference Between AI And Computer vision?: https://www.analyticsinsight.net/whats-the-difference-between-ai-and-computer-vision/
 
-* What makes languages "fast" or "slow"? - DEV Community - https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
+* What makes languages "fast" or "slow"? - DEV Community: https://dev.to/vibalijoshi/what-makes-languages-fast-or-slow-3l44 or [HERE](https://github.com/panosale/PythonLearningGR/files/7319677/What.makes.languages.-fast-.or.-slow-.-.DEV.Community.pdf)
 
-* Android bluetooth list paired devices example - javatpoint - https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
+* Android bluetooth list paired devices example - javatpoint: https://www.javatpoint.com/android-bluetooth-list-paired-devices-example
 
-* Functional vs object-oriented programming | CircleCI - https://circleci.com/blog/functional-vs-object-oriented-programming/
+* Functional vs object-oriented programming | CircleCI: https://circleci.com/blog/functional-vs-object-oriented-programming/
 
-* Object-oriented Programming vs. Functional Programming: Which Is Better? | Hacker Noon - https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better
+* Object-oriented Programming vs. Functional Programming: Which Is Better? | Hacker Noon: https://hackernoon.com/object-oriented-programming-vs-functional-programming-which-is-better
 
-* 10 Different Programming Languages to Use in Robotic Projects - https://www.analyticsinsight.net/10-different-programming-languages-to-use-in-robotic-projects/
+* 10 Different Programming Languages to Use in Robotic Projects: https://www.analyticsinsight.net/10-different-programming-languages-to-use-in-robotic-projects/
 
-* All the Math You Need to Know in Artificial Intelligence - https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
+* All the Math You Need to Know in Artificial Intelligence: https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
 
-* TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python | by Dario Radečić | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
+* TensorFlow for Computer Vision — How to Implement Convolutions From Scratch in Python | by Dario Radečić | Nov, 2021 | Towards Data Science: https://towardsdatascience.com/tensorflow-for-computer-vision-how-to-implement-convolutions-from-scratch-in-python-609158c24f82
 
-* C vs. Python: The Key Differences - https://www.makeuseof.com/c-python-core-differences/
+* C vs. Python: The Key Differences: https://www.makeuseof.com/c-python-core-differences/
 
-* JSON for Beginners – JavaScript Object Notation Explained in Plain English - https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
+* JSON for Beginners – JavaScript Object Notation Explained in Plain English: https://www.freecodecamp.org/news/what-is-json-a-json-file-example/
 
-* The complete beginners guide to dynamic programming  - Stack Overflow Blog - https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/
+* The complete beginners guide to dynamic programming  - Stack Overflow Blog: https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/
 
-* 3 Advanced Data Structures Every Programmer Should Know - https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/
+* 3 Advanced Data Structures Every Programmer Should Know: https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/
 
-* Primary Interest in Artificial Intelligence: Analytics Insight Survey 2022 - https://www.analyticsinsight.net/primary-interest-in-artificial-intelligence-analytics-insight-survey-2022/
+* Primary Interest in Artificial Intelligence: Analytics Insight Survey 2022: https://www.analyticsinsight.net/primary-interest-in-artificial-intelligence-analytics-insight-survey-2022/
 
-* Why deep-learning methods confidently recognize images that are nonsense - https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html
+* Why deep-learning methods confidently recognize images that are nonsense: https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html
 
-* Top Ten Technologies That Will Outperform AI/ML in 2022 - https://www.analyticsinsight.net/top-ten-technologies-that-will-outperform-ai-ml-in-2022/
+* Top Ten Technologies That Will Outperform AI/ML in 2022: https://www.analyticsinsight.net/top-ten-technologies-that-will-outperform-ai-ml-in-2022/
 
-* The 6 Best Visual Studio Code Themes to Start Into 2022 | by Marvin Wendt | Dec, 2021 | Better Programming - https://betterprogramming.pub/the-6-best-visual-studio-code-themes-to-start-into-2022-1b1c7b8b60dc
+* The 6 Best Visual Studio Code Themes to Start Into 2022 | by Marvin Wendt | Dec, 2021 | Better Programming: https://betterprogramming.pub/the-6-best-visual-studio-code-themes-to-start-into-2022-1b1c7b8b60dc
 
-* Best Programming Languages For Games - https://careerkarma.com/blog/best-programming-languages-for-games/
+* Best Programming Languages For Games: https://careerkarma.com/blog/best-programming-languages-for-games/
 
-* What is Debugging? How to Debug Your Code for Beginners - https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/
+* What is Debugging? How to Debug Your Code for Beginners: https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/
 
-* Rubber Duck Debugging - https://www.freecodecamp.org/news/rubber-duck-debugging/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713333/Rubber.Duck.Debugging.pdf)
+* Rubber Duck Debugging: https://www.freecodecamp.org/news/rubber-duck-debugging/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713333/Rubber.Duck.Debugging.pdf)
 
 
 
@@ -500,15 +500,15 @@
 
 ##### C/C++
 
-* The 10 Core Differences Between C and C++ - https://www.makeuseof.com/differences-between-c-c-plus-plus/
+* The 10 Core Differences Between C and C++: https://www.makeuseof.com/differences-between-c-c-plus-plus/
 
-* C++ Programming: Arena Allocation - DEV Community - https://dev.to/aboss123/advanced-c-arena-allocation-3580
+* C++ Programming: Arena Allocation - DEV Community: https://dev.to/aboss123/advanced-c-arena-allocation-3580
 
-* Beautiful C++ - https://cppcast.com/beautiful-cpp-book/
+* Beautiful C++: https://cppcast.com/beautiful-cpp-book/
 
-* How to Learn the C++ Programming Language - https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713457/How.to.Learn.the.C%2B%2B.Programming.Language.pdf)
+* How to Learn the C++ Programming Language: https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713457/How.to.Learn.the.C%2B%2B.Programming.Language.pdf)
 
-* Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog - https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
+* Microsoft Visual Studio 2022 and Floating-point to Integer Conversions - C++ Team Blog: https://devblogs.microsoft.com/cppblog/microsoft-visual-studio-2022-and-floating-point-to-integer-conversions/
 
 
 
