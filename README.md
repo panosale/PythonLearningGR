@@ -212,7 +212,7 @@
 
 * 11 Python Built-in Functions You Should Know: https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db
 
-* Python most powerful functions: map(), filter(), and reduce() in 5 minutes  - https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/
+* Python most powerful functions: map(), filter(), and reduce() in 5 minutes: https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/
 
 * How to Boost Pandas Functions with Python Dictionaries | by Soner Yıldırım | Mar, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-boost-pandas-functions-with-python-dictionaries-35da25e250d7
 
@@ -220,111 +220,113 @@
 
 * What's New in Python 3.10? | Towards Data Science: https://towardsdatascience.com/whats-new-in-python-3-10-a757c6c69342
 
-* Python If Else Statement – Conditional Statements Explained - https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
+* Python If Else Statement – Conditional Statements Explained: https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/
 
-* Functions in Python – Explained with Code Examples - https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
+* Functions in Python – Explained with Code Examples: https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/
 
-* Python any() and all() Functions – Explained with Examples - https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
+* Python any() and all() Functions – Explained with Examples: https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7032546/Python.any.and.all.Functions.Explained.with.Examples.pdf)
 
-* Create Executable from Python Script using Pyinstaller - https://datatofish.com/executable-pyinstaller/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
+* Create Executable from Python Script using Pyinstaller: https://datatofish.com/executable-pyinstaller/ or [HERE](https://github.com/panosale/PythonLearningGR/files/7337426/Create.Executable.from.Python.Script.using.Pyinstaller.-.Data.to.Fish.pdf)
 
-* How to Automate Things Using Python - https://www.freecodecamp.org/news/how-to-automate-things-using-python/
+* How to Automate Things Using Python: https://www.freecodecamp.org/news/how-to-automate-things-using-python/
 
-* Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks - https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
+* Top 10 Advance Python Concepts That You Must Know - GeeksforGeeks: https://www.geeksforgeeks.org/top-10-advance-python-concepts-that-you-must-know/
 
 * Getting Started With Python on Hardware - Make: - https://makezine.com/2021/09/21/getting-started-with-python-on-hardware/
 
-* Python Try and Except Statements – How to Handle Exceptions in Python - https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
+* Python Try and Except Statements – How to Handle Exceptions in Python: https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/
 
-* Python Enumerate – Python Enum For Loop Index Example - https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
+* Python Enumerate – Python Enum For Loop Index Example: https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/
 
-* Python range() Function – Explained with Code Examples - https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/
+* Python range() Function – Explained with Code Examples: https://www.freecodecamp.org/news/python-range-function-explained-with-code-examples/
 
-* Introduction to Data structures and Algorithms in Python - DEV Community - https://dev.to/luxacademy/data-structures-and-algorithms-in-python-2i88
+* Introduction to Data structures and Algorithms in Python - DEV Community: https://dev.to/luxacademy/data-structures-and-algorithms-in-python-2i88
 
-* 12 Of My Favorite Python Practices For Better Functions | by Emmett Boudreau | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/12-of-my-favorite-python-practices-for-better-functions-7a21d18cfb38
+* 12 Of My Favorite Python Practices For Better Functions | by Emmett Boudreau | Sep, 2021 | Towards Data Science: https://towardsdatascience.com/12-of-my-favorite-python-practices-for-better-functions-7a21d18cfb38
 
-* How to Generate Automated PDF Documents with Python | by M Khorasani | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-55981f4d9e3
+* How to Generate Automated PDF Documents with Python | by M Khorasani | Sep, 2021 | Towards Data Science: https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-55981f4d9e3
 
-* Stop Hardcoding Sensitive Data in Your Python Applications | by Ahmed Besbes | Sep, 2021 | Towards Data Science - https://towardsdatascience.com/stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3
+* Stop Hardcoding Sensitive Data in Your Python Applications | by Ahmed Besbes | Sep, 2021 | Towards Data Science: https://towardsdatascience.com/stop-hardcoding-sensitive-data-in-your-python-applications-86eb2a96bec3
 
-* Understanding Python imports, __init__.py and pythonpath — once and for all | by Dr. Varshita Sher | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355
+* Understanding Python imports, __init__.py and pythonpath — once and for all | by Dr. Varshita Sher | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355
 
-* 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science - https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f
+* 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f
 
-* Creating Python Virtual Environment with Pip - DEV Community - https://dev.to/jkariukidev/creating-python-virtual-environment-with-pip-2a4p
+* Creating Python Virtual Environment with Pip - DEV Community: https://dev.to/jkariukidev/creating-python-virtual-environment-with-pip-2a4p
 
-* Context Managers; The Best Managers for Python Developers | by Simon Hawe | Nov, 2021 | Towards Data Science - https://towardsdatascience.com/context-managers-the-best-managers-for-python-developers-a5809fb7e428
+* Context Managers; The Best Managers for Python Developers | by Simon Hawe | Nov, 2021 | Towards Data Science: https://towardsdatascience.com/context-managers-the-best-managers-for-python-developers-a5809fb7e428
 
-* 10 Python Code Snippets For Everyday Programming Problems - GeeksforGeeks - https://www.geeksforgeeks.org/10-python-code-snippets-for-everyday-programming-problems/
+* 10 Python Code Snippets For Everyday Programming Problems - GeeksforGeeks: https://www.geeksforgeeks.org/10-python-code-snippets-for-everyday-programming-problems/
 
-* How to build and run your Python scripts in a web browser • The Register - https://www.theregister.com/2021/11/30/python_web_wasm/
+* How to build and run your Python scripts in a web browser • The Register: https://www.theregister.com/2021/11/30/python_web_wasm/
 
-* Python Code Best Practices - DEV Community - https://dollardhingra.com/blog/python-code-best-practices/
+* Python Code Best Practices - DEV Community: https://dollardhingra.com/blog/python-code-best-practices/
 
-* How to Merge Dictionaries in Python - https://www.freecodecamp.org/news/merge-dictionaries-in-python/
+* How to Merge Dictionaries in Python: https://www.freecodecamp.org/news/merge-dictionaries-in-python/
 
-* 5 Most Useful Scripts in Python — 1 | by Harendra Verma | Nov, 2021 | Python in Plain English - https://python.plainenglish.io/5-most-useful-scripts-in-python-e54d70bd00d7
+* 5 Most Useful Scripts in Python — 1 | by Harendra Verma | Nov, 2021 | Python in Plain English: https://python.plainenglish.io/5-most-useful-scripts-in-python-e54d70bd00d7
 
-* 10 Tools Python Programmers Can Learn in 2022 - DEV Community - https://dev.to/javinpaul/10-tools-python-programmers-can-learn-in-2022-49ll
+* 10 Tools Python Programmers Can Learn in 2022 - DEV Community: https://dev.to/javinpaul/10-tools-python-programmers-can-learn-in-2022-49ll
 
-* Write Clean Python Code Using Pipes - KDnuggets - https://www.kdnuggets.com/2021/12/write-clean-python-code-pipes.html
+* Write Clean Python Code Using Pipes - KDnuggets: https://www.kdnuggets.com/2021/12/write-clean-python-code-pipes.html
 
-* Python Requests – How to Interact with Web Services using Python - https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/
+* Python Requests – How to Interact with Web Services using Python: https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/
 
-* Top 10 Python Tools Every Programmer Should Learn in 2022 - https://www.analyticsinsight.net/top-10-python-tools-every-programmer-should-learn-in-2022/
+* Top 10 Python Tools Every Programmer Should Learn in 2022: https://www.analyticsinsight.net/top-10-python-tools-every-programmer-should-learn-in-2022/
 
-* 5 More Useful Scripts in Python — 3 | by Harendra Verma | Dec, 2021 | Python in Plain English - https://python.plainenglish.io/5-more-useful-scripts-in-python-3-d4c74037e909
+* 5 More Useful Scripts in Python — 3 | by Harendra Verma | Dec, 2021 | Python in Plain English: https://python.plainenglish.io/5-more-useful-scripts-in-python-3-d4c74037e909
 
-* Top 10 Python Tools Programmers Should Know In 2022 - https://www.analyticsinsight.net/top-10-python-tools-programmers-should-know-in-2022/
+* Top 10 Python Tools Programmers Should Know In 2022: https://www.analyticsinsight.net/top-10-python-tools-programmers-should-know-in-2022/
 
-* Why are More Developers Using Python for Their Machine Learning Projects? - KDnuggets - https://www.kdnuggets.com/2022/01/developers-python-machine-learning-projects.html
+* Why are More Developers Using Python for Their Machine Learning Projects?: KDnuggets - https://www.kdnuggets.com/2022/01/developers-python-machine-learning-projects.html
 
-* Interning in CPython - Blog | luminousmen - https://luminousmen.com/post/interning-in-cpython
+* Interning in CPython - Blog | luminousmen: https://luminousmen.com/post/interning-in-cpython
 
-* Object-Oriented Programming in Python - https://www.freecodecamp.org/news/object-oriented-programming-in-python/
+* Object-Oriented Programming in Python: https://www.freecodecamp.org/news/object-oriented-programming-in-python/
 
-* Draw the Mandelbrot Set in Python – Real Python - https://realpython.com/mandelbrot-set-python/
+* Draw the Mandelbrot Set in Python – Real Python: https://realpython.com/mandelbrot-set-python/
 
-* 4 keys to writing modern Python in 2022 | InfoWorld - https://www.infoworld.com/article/3648061/4-keys-to-writing-modern-python-in-2022.html
+* 4 keys to writing modern Python in 2022 | InfoWorld: https://www.infoworld.com/article/3648061/4-keys-to-writing-modern-python-in-2022.html
 
-* 10 Useful Tools for Python Developers - https://www.makeuseof.com/python-developer-tools/
+* 10 Useful Tools for Python Developers: https://www.makeuseof.com/python-developer-tools/
 
-* List Index Out of Range – Python Error Message Solved - https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
+* List Index Out of Range – Python Error Message Solved: https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/
 
-* 8.x Series — IPython 8.0.1 documentation - https://ipython.readthedocs.io/en/stable/whatsnew/version8.html or [HERE](https://github.com/panosale/PythonLearningGR/files/8697415/8.x.Series.-.IPython.8.3.0.documentation.pdf)
+* 8.x Series — IPython 8.0.1 documentation: https://ipython.readthedocs.io/en/stable/whatsnew/version8.html or [HERE](https://github.com/panosale/PythonLearningGR/files/8697415/8.x.Series.-.IPython.8.3.0.documentation.pdf)
 
-* Python Parse JSON – How to Read a JSON File - https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
+* Python Parse JSON – How to Read a JSON File: https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8061274/Python.Parse.JSON.-.How.to.Read.a.JSON.File.pdf)
 
-* Python Global Variables – How to Define a Global Variable Example - https://www.freecodecamp.org/news/python-global-variables-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697391/Python.Global.Variables.-.How.to.Define.a.Global.Variable.Example.pdf)
+* Python Global Variables – How to Define a Global Variable Example: https://www.freecodecamp.org/news/python-global-variables-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8697391/Python.Global.Variables.-.How.to.Define.a.Global.Variable.Example.pdf)
 
-* Python for Beginners: The Range() Function – The New Stack - https://thenewstack.io/python-for-beginners-the-range-function/
+* Python for Beginners: The Range() Function – The New Stack: https://thenewstack.io/python-for-beginners-the-range-function/
 
-* Providing Multiple Constructors in Your Python Classes – Real Python - https://realpython.com/python-multiple-constructors/
+* Providing Multiple Constructors in Your Python Classes – Real Python: https://realpython.com/python-multiple-constructors/
 
-* Python If-Else – Python Conditional Syntax Example - https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/
+* Python If-Else – Python Conditional Syntax Example: https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/
 
-* Python for Beginners: Data Types – The New Stack - https://thenewstack.io/python-for-beginners-data-types/
+* Python for Beginners: Data Types – The New Stack: https://thenewstack.io/python-for-beginners-data-types/
 
-* Top 10 Python Programming Tips and Tricks Beginners to Follow - https://www.analyticsinsight.net/top-10-python-programming-tips-and-tricks-beginners-to-follow/
+* Top 10 Python Programming Tips and Tricks Beginners to Follow: https://www.analyticsinsight.net/top-10-python-programming-tips-and-tricks-beginners-to-follow/
 
-* Top 5 Myths around Python Programming Language - https://www.analyticsinsight.net/top-5-myths-around-python-programming-language/
+* Top 5 Myths around Python Programming Language: https://www.analyticsinsight.net/top-5-myths-around-python-programming-language/
 
-* How to Run Python Functions in Parallel Using Ray API | by Konstantinos Patronas | Mar, 2022 | Better Programming - https://betterprogramming.pub/python-use-ray-to-run-functions-in-parallel-871f7a6678c4
+* How to Run Python Functions in Parallel Using Ray API | by Konstantinos Patronas | Mar, 2022 | Better Programming: https://betterprogramming.pub/python-use-ray-to-run-functions-in-parallel-871f7a6678c4
 
-* Python Comment Block – How to Comment Out Code in Python - https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/
+* Python Comment Block – How to Comment Out Code in Python: https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/
 
-* Right and Left Hand Detection Using Python - GeeksforGeeks - https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
+* Right and Left Hand Detection Using Python - GeeksforGeeks: https://www.geeksforgeeks.org/right-and-left-hand-detection-using-python/
 
-* How to Write Unit Tests for Instance Methods in Python - https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678190/How.to.Write.Unit.Tests.for.Instance.Methods.in.Python.pdf)
+* How to Write Unit Tests for Instance Methods in Python: https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678190/How.to.Write.Unit.Tests.for.Instance.Methods.in.Python.pdf)
 
-* Top Algorithms for Competitive Programming Every Programmer Must Know in 2022 - https://www.analyticsinsight.net/top-algorithms-for-competitive-programming-every-programmer-must-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678257/Top.Algorithms.for.Competitive.Programming.Every.Programmer.Must.Know.in.2022.pdf)
+* Top Algorithms for Competitive Programming Every Programmer Must Know in 2022: https://www.analyticsinsight.net/top-algorithms-for-competitive-programming-every-programmer-must-know-in-2022/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10678257/Top.Algorithms.for.Competitive.Programming.Every.Programmer.Must.Know.in.2022.pdf)
 
- * Python Sleep – time.sleep() in Python - https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713159/Python.Sleep.-.time.sleep.in.Python.pdf)
+ * Python Sleep – time.sleep() in Python: https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713159/Python.Sleep.-.time.sleep.in.Python.pdf)
 
-* Python Attributes – Class and Instance Attribute Examples - https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713326/Python.Attributes.-.Class.and.Instance.Attribute.Examples.pdf)
+* Python Attributes – Class and Instance Attribute Examples: https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/ or [HERE](https://github.com/panosale/PythonLearningGR/files/10713326/Python.Attributes.-.Class.and.Instance.Attribute.Examples.pdf)
 
-* How to List Installed Python Packages - https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/
+* How to List Installed Python Packages: https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/
+
+* Python datetime: https://www.programiz.com/python-programming/datetime
  
 
 
