@@ -250,7 +250,8 @@
 
 * Understanding Python imports, __init__.py and pythonpath — once and for all | by Dr. Varshita Sher | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355
 
-* 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f
+* 6 New Awesome Features in Python 3.10 | by Sara A. Metwalli | Oct, 2021 | Towards Data Science: https://towardsdatascience.com/6-new-awesome-features-in-python-3-10-a0598e87689f or [HERE](https://github.com/user-attachments/files/23900524/6.New.Awesome.Features.in.Python.3.10.-.Towards.Data.Science.pdf)
+
 
 * Creating Python Virtual Environment with Pip - DEV Community: https://dev.to/jkariukidev/creating-python-virtual-environment-with-pip-2a4p
 
