@@ -132,6 +132,8 @@
 * Python Compare Strings – How to Check for String Equality: https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/ or 
 [HERE](https://github.com/panosale/PythonLearningGR/files/10713166/Python.Compare.Strings.-.How.to.Check.for.String.Equality.pdf)
 
+* Python How to Print Without Spaces (Examples): https://www.codingem.com/python-print-without-spaces/
+
 
 
 #### FILES
