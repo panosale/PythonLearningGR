@@ -1,3 +1,4 @@
+# Έλεγχος αν μια λίστα (lst) είναι ταξινομημένη και περιλαμβάνει όλους τους αριθμούς από το 1 έως το n
 def is_sorted(lst):
     lst = sorted(lst)
     for i in range(len(lst) - 1):
@@ -5,6 +6,7 @@ def is_sorted(lst):
             return False
     return True
 
+# Έλεγχος αν ένας αριθμός (num) είναι Πρώτο Αριθμός
 def is_prime(num):
     if num >= 2:
         i = 3
@@ -13,6 +15,15 @@ def is_prime(num):
                 return False
             i += 1
     return True
+# Επιστροφή όλων των Πρώτων Αριθμών από το 1 έως το num_range
+def prime_numbers(num_range):
+    for i in range(1, num_range + 1):
+        if is_prime(i):
+            print(i, ' ', end='')
+    print()
+# Έλεγχος λειτουργίας της prime_numbers(num_range)
+#prime_numbers(173)
+
 modulo = int(input("Δώσε το modulo: "))
 prim_root = int(input("Δώσε την υποψήφια Πρωτογενή Ρίζα: "))
 print("Είναι το [", modulo, "] Πρώτος Αριθμός; --> ", is_prime(modulo), sep="")
