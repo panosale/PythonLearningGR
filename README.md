@@ -83,6 +83,7 @@
 
 ### ΑΡΘΡΑ
 
+
 #### TYPES
 
 
@@ -95,6 +96,7 @@
 * Python For Loop – Example and Tutorial: https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040697/Python.For.Loop.-.Example.and.Tutorial.pdf)
 
 * How to Use Built-in Looping Functions in Python: https://www.freecodecamp.org/news/python-looping-functions/ or [HERE](https://github.com/panosale/PythonLearningGR/files/8040707/How.to.Use.Built-in.Looping.Functions.in.Python.pdf)
+
 
 
 #### IF ... THEN ... ELSE
@@ -133,7 +135,6 @@
 [HERE](https://github.com/panosale/PythonLearningGR/files/10713166/Python.Compare.Strings.-.How.to.Check.for.String.Equality.pdf)
 
 * Python How to Print Without Spaces (Examples): https://www.codingem.com/python-print-without-spaces/ or [HERE](https://github.com/user-attachments/files/27493449/Python.How.to.Print.Without.Spaces.Examples.-.codingem.pdf)
-
 
 
 
@@ -561,14 +562,19 @@
       python -m tabnanny [pythonScriptName].py -> Ελέγχει αν υπάρχουν λάθος εσοχές στο [pythonScriptName].py
       
       
-
 * Από Python:
 
       dir(μεταβλητή ή κλάση) -> Εμφανίζει όλες τις ιδιότητες (attributes) της μεταβλητής/κλάσης.
 
       type(μεταβλητή) -> Εμφανίζει τον τύπο της μεταβλητής.
         
-        
+
+* Εύρεση του path κλήσης των packages
+
+      >>> import sys
+      >>> for path in sys.path:
+      ...     print(path)
+ 
 
 ### ΣΗΜΕΙΩΣΕΙΣ
 
